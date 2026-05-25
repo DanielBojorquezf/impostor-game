@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "categoria": "famosos",
+    "palabra": "Lionel Messi",
+    "pista": "futbolista"
+  },
+  {
+    "id": 2,
+    "categoria": "famosos",
+    "palabra": "Cristiano Ronaldo",
+    "pista": "portugués"
+  },
+  {
+    "id": 3,
+    "categoria": "famosos",
+    "palabra": "Taylor Swift",
+    "pista": "cantante"
+  },
+  {
+    "id": 4,
+    "categoria": "famosos",
+    "palabra": "Shakira",
+    "pista": "colombiana"
+  },
+  {
+    "id": 5,
+    "categoria": "famosos",
+    "palabra": "Bad Bunny",
+    "pista": "urbano"
+  },
+  {
+    "id": 6,
+    "categoria": "famosos",
+    "palabra": "Dua Lipa",
+    "pista": "pop"
+  },
+  {
+    "id": 7,
+    "categoria": "famosos",
+    "palabra": "Beyoncé",
+    "pista": "escenario"
+  },
+  {
+    "id": 8,
+    "categoria": "famosos",
+    "palabra": "Rihanna",
+    "pista": "barbados"
+  },
+  {
+    "id": 9,
+    "categoria": "famosos",
+    "palabra": "Ariana Grande",
+    "pista": "voz"
+  },
+  {
+    "id": 10,
+    "categoria": "famosos",
+    "palabra": "Ed Sheeran",
+    "pista": "guitarra"
+  },
+  {
+    "id": 11,
+    "categoria": "famosos",
+    "palabra": "Michael Jackson",
+    "pista": "baile"
+  },
+  {
+    "id": 12,
+    "categoria": "famosos",
+    "palabra": "Madonna",
+    "pista": "pop"
+  },
+  {
+    "id": 13,
+    "categoria": "famosos",
+    "palabra": "Elvis Presley",
+    "pista": "rock"
+  },
+  {
+    "id": 14,
+    "categoria": "famosos",
+    "palabra": "Freddie Mercury",
+    "pista": "queen"
+  },
+  {
+    "id": 15,
+    "categoria": "famosos",
+    "palabra": "Lady Gaga",
+    "pista": "extravagante"
+  },
+  {
+    "id": 16,
+    "categoria": "famosos",
+    "palabra": "Bruno Mars",
+    "pista": "funk"
+  },
+  {
+    "id": 17,
+    "categoria": "famosos",
+    "palabra": "Eminem",
+    "pista": "rap"
+  },
+  {
+    "id": 18,
+    "categoria": "famosos",
+    "palabra": "Drake",
+    "pista": "canadiense"
+  },
+  {
+    "id": 19,
+    "categoria": "famosos",
+    "palabra": "The Weeknd",
+    "pista": "nocturno"
+  },
+  {
+    "id": 20,
+    "categoria": "famosos",
+    "palabra": "Billie Eilish",
+    "pista": "susurro"
+  },
+  {
+    "id": 21,
+    "categoria": "famosos",
+    "palabra": "Selena Gomez",
+    "pista": "actriz"
+  },
+  {
+    "id": 22,
+    "categoria": "famosos",
+    "palabra": "Jennifer Lopez",
+    "pista": "show"
+  },
+  {
+    "id": 23,
+    "categoria": "famosos",
+    "palabra": "Karol G",
+    "pista": "bichota"
+  },
+  {
+    "id": 24,
+    "categoria": "famosos",
+    "palabra": "Peso Pluma",
+    "pista": "corridos"
+  },
+  {
+    "id": 25,
+    "categoria": "famosos",
+    "palabra": "Luis Miguel",
+    "pista": "sol"
+  },
+  {
+    "id": 26,
+    "categoria": "famosos",
+    "palabra": "Thalía",
+    "pista": "novela"
+  },
+  {
+    "id": 27,
+    "categoria": "famosos",
+    "palabra": "Sofía Vergara",
+    "pista": "colombiana"
+  },
+  {
+    "id": 28,
+    "categoria": "famosos",
+    "palabra": "Gael García",
+    "pista": "actor"
+  },
+  {
+    "id": 29,
+    "categoria": "famosos",
+    "palabra": "Diego Luna",
+    "pista": "actor"
+  },
+  {
+    "id": 30,
+    "categoria": "famosos",
+    "palabra": "Guillermo del Toro",
+    "pista": "director"
+  },
+  {
+    "id": 31,
+    "categoria": "famosos",
+    "palabra": "Steven Spielberg",
+    "pista": "cine"
+  },
+  {
+    "id": 32,
+    "categoria": "famosos",
+    "palabra": "Christopher Nolan",
+    "pista": "director"
+  },
+  {
+    "id": 33,
+    "categoria": "famosos",
+    "palabra": "Tom Cruise",
+    "pista": "acción"
+  },
+  {
+    "id": 34,
+    "categoria": "famosos",
+    "palabra": "Leonardo DiCaprio",
+    "pista": "oscar"
+  },
+  {
+    "id": 35,
+    "categoria": "famosos",
+    "palabra": "Brad Pitt",
+    "pista": "actor"
+  },
+  {
+    "id": 36,
+    "categoria": "famosos",
+    "palabra": "Angelina Jolie",
+    "pista": "actriz"
+  },
+  {
+    "id": 37,
+    "categoria": "famosos",
+    "palabra": "Zendaya",
+    "pista": "joven"
+  },
+  {
+    "id": 38,
+    "categoria": "famosos",
+    "palabra": "Dwayne Johnson",
+    "pista": "roca"
+  },
+  {
+    "id": 39,
+    "categoria": "famosos",
+    "palabra": "Will Smith",
+    "pista": "príncipe"
+  },
+  {
+    "id": 40,
+    "categoria": "famosos",
+    "palabra": "Keanu Reeves",
+    "pista": "matrix"
+  },
+  {
+    "id": 41,
+    "categoria": "famosos",
+    "palabra": "Jackie Chan",
+    "pista": "artes"
+  },
+  {
+    "id": 42,
+    "categoria": "famosos",
+    "palabra": "Robert Downey Jr.",
+    "pista": "hierro"
+  },
+  {
+    "id": 43,
+    "categoria": "famosos",
+    "palabra": "Scarlett Johansson",
+    "pista": "viuda"
+  },
+  {
+    "id": 44,
+    "categoria": "famosos",
+    "palabra": "Emma Watson",
+    "pista": "magia"
+  },
+  {
+    "id": 45,
+    "categoria": "famosos",
+    "palabra": "Daniel Radcliffe",
+    "pista": "varita"
+  },
+  {
+    "id": 46,
+    "categoria": "famosos",
+    "palabra": "Elon Musk",
+    "pista": "empresario"
+  },
+  {
+    "id": 47,
+    "categoria": "famosos",
+    "palabra": "Bill Gates",
+    "pista": "software"
+  },
+  {
+    "id": 48,
+    "categoria": "famosos",
+    "palabra": "Jeff Bezos",
+    "pista": "amazon"
+  },
+  {
+    "id": 49,
+    "categoria": "famosos",
+    "palabra": "Mark Zuckerberg",
+    "pista": "redes"
+  },
+  {
+    "id": 50,
+    "categoria": "famosos",
+    "palabra": "Albert Einstein",
+    "pista": "científico"
+  },
+  {
+    "id": 51,
+    "categoria": "objetos",
+    "palabra": "calculadora",
+    "pista": "número"
+  },
+  {
+    "id": 52,
+    "categoria": "objetos",
+    "palabra": "paraguas",
+    "pista": "lluvia"
+  },
+  {
+    "id": 53,
+    "categoria": "objetos",
+    "palabra": "reloj",
+    "pista": "tiempo"
+  },
+  {
+    "id": 54,
+    "categoria": "objetos",
+    "palabra": "lámpara",
+    "pista": "luz"
+  },
+  {
+    "id": 55,
+    "categoria": "objetos",
+    "palabra": "tijeras",
+    "pista": "cortar"
+  },
+  {
+    "id": 56,
+    "categoria": "objetos",
+    "palabra": "almohada",
+    "pista": "dormir"
+  },
+  {
+    "id": 57,
+    "categoria": "objetos",
+    "palabra": "espejo",
+    "pista": "reflejo"
+  },
+  {
+    "id": 58,
+    "categoria": "objetos",
+    "palabra": "mochila",
+    "pista": "cargar"
+  },
+  {
+    "id": 59,
+    "categoria": "objetos",
+    "palabra": "cuaderno",
+    "pista": "apuntes"
+  },
+  {
+    "id": 60,
+    "categoria": "objetos",
+    "palabra": "pluma",
+    "pista": "escribir"
+  },
+  {
+    "id": 61,
+    "categoria": "objetos",
+    "palabra": "lápiz",
+    "pista": "grafito"
+  },
+  {
+    "id": 62,
+    "categoria": "objetos",
+    "palabra": "borrador",
+    "pista": "corregir"
+  },
+  {
+    "id": 63,
+    "categoria": "objetos",
+    "palabra": "regla",
+    "pista": "medir"
+  },
+  {
+    "id": 64,
+    "categoria": "objetos",
+    "palabra": "celular",
+    "pista": "llamada"
+  },
+  {
+    "id": 65,
+    "categoria": "objetos",
+    "palabra": "cargador",
+    "pista": "energía"
+  },
+  {
+    "id": 66,
+    "categoria": "objetos",
+    "palabra": "audífonos",
+    "pista": "escuchar"
+  },
+  {
+    "id": 67,
+    "categoria": "objetos",
+    "palabra": "teclado",
+    "pista": "letras"
+  },
+  {
+    "id": 68,
+    "categoria": "objetos",
+    "palabra": "mouse",
+    "pista": "cursor"
+  },
+  {
+    "id": 69,
+    "categoria": "objetos",
+    "palabra": "monitor",
+    "pista": "pantalla"
+  },
+  {
+    "id": 70,
+    "categoria": "objetos",
+    "palabra": "control remoto",
+    "pista": "botones"
+  },
+  {
+    "id": 71,
+    "categoria": "objetos",
+    "palabra": "ventilador",
+    "pista": "aire"
+  },
+  {
+    "id": 72,
+    "categoria": "objetos",
+    "palabra": "silla",
+    "pista": "sentarse"
+  },
+  {
+    "id": 73,
+    "categoria": "objetos",
+    "palabra": "mesa",
+    "pista": "superficie"
+  },
+  {
+    "id": 74,
+    "categoria": "objetos",
+    "palabra": "botella",
+    "pista": "líquido"
+  },
+  {
+    "id": 75,
+    "categoria": "objetos",
+    "palabra": "vaso",
+    "pista": "beber"
+  },
+  {
+    "id": 76,
+    "categoria": "objetos",
+    "palabra": "tenedor",
+    "pista": "comer"
+  },
+  {
+    "id": 77,
+    "categoria": "objetos",
+    "palabra": "cuchara",
+    "pista": "sopa"
+  },
+  {
+    "id": 78,
+    "categoria": "objetos",
+    "palabra": "cuchillo",
+    "pista": "cortar"
+  },
+  {
+    "id": 79,
+    "categoria": "objetos",
+    "palabra": "plato",
+    "pista": "comida"
+  },
+  {
+    "id": 80,
+    "categoria": "objetos",
+    "palabra": "olla",
+    "pista": "cocina"
+  },
+  {
+    "id": 81,
+    "categoria": "objetos",
+    "palabra": "sartén",
+    "pista": "freír"
+  },
+  {
+    "id": 82,
+    "categoria": "objetos",
+    "palabra": "licuadora",
+    "pista": "mezclar"
+  },
+  {
+    "id": 83,
+    "categoria": "objetos",
+    "palabra": "microondas",
+    "pista": "calentar"
+  },
+  {
+    "id": 84,
+    "categoria": "objetos",
+    "palabra": "escoba",
+    "pista": "barrer"
+  },
+  {
+    "id": 85,
+    "categoria": "objetos",
+    "palabra": "trapeador",
+    "pista": "limpiar"
+  },
+  {
+    "id": 86,
+    "categoria": "objetos",
+    "palabra": "cubeta",
+    "pista": "agua"
+  },
+  {
+    "id": 87,
+    "categoria": "objetos",
+    "palabra": "candado",
+    "pista": "seguridad"
+  },
+  {
+    "id": 88,
+    "categoria": "objetos",
+    "palabra": "llave",
+    "pista": "abrir"
+  },
+  {
+    "id": 89,
+    "categoria": "objetos",
+    "palabra": "maleta",
+    "pista": "viaje"
+  },
+  {
+    "id": 90,
+    "categoria": "objetos",
+    "palabra": "cartera",
+    "pista": "dinero"
+  },
+  {
+    "id": 91,
+    "categoria": "objetos",
+    "palabra": "bolsa",
+    "pista": "guardar"
+  },
+  {
+    "id": 92,
+    "categoria": "objetos",
+    "palabra": "peine",
+    "pista": "cabello"
+  },
+  {
+    "id": 93,
+    "categoria": "objetos",
+    "palabra": "cepillo dental",
+    "pista": "dientes"
+  },
+  {
+    "id": 94,
+    "categoria": "objetos",
+    "palabra": "toalla",
+    "pista": "secar"
+  },
+  {
+    "id": 95,
+    "categoria": "objetos",
+    "palabra": "jabón",
+    "pista": "lavar"
+  },
+  {
+    "id": 96,
+    "categoria": "objetos",
+    "palabra": "martillo",
+    "pista": "golpear"
+  },
+  {
+    "id": 97,
+    "categoria": "objetos",
+    "palabra": "desarmador",
+    "pista": "tornillo"
+  },
+  {
+    "id": 98,
+    "categoria": "objetos",
+    "palabra": "taladro",
+    "pista": "agujero"
+  },
+  {
+    "id": 99,
+    "categoria": "objetos",
+    "palabra": "linterna",
+    "pista": "oscuro"
+  },
+  {
+    "id": 100,
+    "categoria": "objetos",
+    "palabra": "cámara",
+    "pista": "foto"
+  },
+  {
+    "id": 101,
+    "categoria": "comida",
+    "palabra": "pizza",
+    "pista": "italiana"
+  },
+  {
+    "id": 102,
+    "categoria": "comida",
+    "palabra": "taco",
+    "pista": "mexicano"
+  },
+  {
+    "id": 103,
+    "categoria": "comida",
+    "palabra": "sushi",
+    "pista": "japonés"
+  },
+  {
+    "id": 104,
+    "categoria": "comida",
+    "palabra": "hamburguesa",
+    "pista": "carne"
+  },
+  {
+    "id": 105,
+    "categoria": "comida",
+    "palabra": "chocolate",
+    "pista": "dulce"
+  },
+  {
+    "id": 106,
+    "categoria": "comida",
+    "palabra": "aguacate",
+    "pista": "verde"
+  },
+  {
+    "id": 107,
+    "categoria": "comida",
+    "palabra": "café",
+    "pista": "caliente"
+  },
+  {
+    "id": 108,
+    "categoria": "comida",
+    "palabra": "helado",
+    "pista": "frío"
+  },
+  {
+    "id": 109,
+    "categoria": "comida",
+    "palabra": "pozole",
+    "pista": "maíz"
+  },
+  {
+    "id": 110,
+    "categoria": "comida",
+    "palabra": "tamales",
+    "pista": "hoja"
+  },
+  {
+    "id": 111,
+    "categoria": "comida",
+    "palabra": "enchiladas",
+    "pista": "salsa"
+  },
+  {
+    "id": 112,
+    "categoria": "comida",
+    "palabra": "quesadilla",
+    "pista": "queso"
+  },
+  {
+    "id": 113,
+    "categoria": "comida",
+    "palabra": "chilaquiles",
+    "pista": "desayuno"
+  },
+  {
+    "id": 114,
+    "categoria": "comida",
+    "palabra": "mole",
+    "pista": "chocolate"
+  },
+  {
+    "id": 115,
+    "categoria": "comida",
+    "palabra": "elote",
+    "pista": "maíz"
+  },
+  {
+    "id": 116,
+    "categoria": "comida",
+    "palabra": "hot dog",
+    "pista": "salchicha"
+  },
+  {
+    "id": 117,
+    "categoria": "comida",
+    "palabra": "pasta",
+    "pista": "italiana"
+  },
+  {
+    "id": 118,
+    "categoria": "comida",
+    "palabra": "lasagna",
+    "pista": "capas"
+  },
+  {
+    "id": 119,
+    "categoria": "comida",
+    "palabra": "ramen",
+    "pista": "caldo"
+  },
+  {
+    "id": 120,
+    "categoria": "comida",
+    "palabra": "dumplings",
+    "pista": "relleno"
+  },
+  {
+    "id": 121,
+    "categoria": "comida",
+    "palabra": "paella",
+    "pista": "arroz"
+  },
+  {
+    "id": 122,
+    "categoria": "comida",
+    "palabra": "ceviche",
+    "pista": "marino"
+  },
+  {
+    "id": 123,
+    "categoria": "comida",
+    "palabra": "arepa",
+    "pista": "masa"
+  },
+  {
+    "id": 124,
+    "categoria": "comida",
+    "palabra": "empanada",
+    "pista": "rellena"
+  },
+  {
+    "id": 125,
+    "categoria": "comida",
+    "palabra": "croissant",
+    "pista": "pan"
+  },
+  {
+    "id": 126,
+    "categoria": "comida",
+    "palabra": "donas",
+    "pista": "azúcar"
+  },
+  {
+    "id": 127,
+    "categoria": "comida",
+    "palabra": "pan dulce",
+    "pista": "horno"
+  },
+  {
+    "id": 128,
+    "categoria": "comida",
+    "palabra": "pastel",
+    "pista": "cumpleaños"
+  },
+  {
+    "id": 129,
+    "categoria": "comida",
+    "palabra": "flan",
+    "pista": "postre"
+  },
+  {
+    "id": 130,
+    "categoria": "comida",
+    "palabra": "gelatina",
+    "pista": "temblor"
+  },
+  {
+    "id": 131,
+    "categoria": "comida",
+    "palabra": "ensalada",
+    "pista": "verde"
+  },
+  {
+    "id": 132,
+    "categoria": "comida",
+    "palabra": "sopa",
+    "pista": "caldo"
+  },
+  {
+    "id": 133,
+    "categoria": "comida",
+    "palabra": "pollo frito",
+    "pista": "crujiente"
+  },
+  {
+    "id": 134,
+    "categoria": "comida",
+    "palabra": "carne asada",
+    "pista": "parrilla"
+  },
+  {
+    "id": 135,
+    "categoria": "comida",
+    "palabra": "alitas",
+    "pista": "picante"
+  },
+  {
+    "id": 136,
+    "categoria": "comida",
+    "palabra": "burrito",
+    "pista": "tortilla"
+  },
+  {
+    "id": 137,
+    "categoria": "comida",
+    "palabra": "nachos",
+    "pista": "botana"
+  },
+  {
+    "id": 138,
+    "categoria": "comida",
+    "palabra": "guacamole",
+    "pista": "molcajete"
+  },
+  {
+    "id": 139,
+    "categoria": "comida",
+    "palabra": "frijoles",
+    "pista": "legumbre"
+  },
+  {
+    "id": 140,
+    "categoria": "comida",
+    "palabra": "arroz",
+    "pista": "grano"
+  },
+  {
+    "id": 141,
+    "categoria": "comida",
+    "palabra": "huevo",
+    "pista": "desayuno"
+  },
+  {
+    "id": 142,
+    "categoria": "comida",
+    "palabra": "tocino",
+    "pista": "crujiente"
+  },
+  {
+    "id": 143,
+    "categoria": "comida",
+    "palabra": "salchicha",
+    "pista": "embutido"
+  },
+  {
+    "id": 144,
+    "categoria": "comida",
+    "palabra": "atún",
+    "pista": "lata"
+  },
+  {
+    "id": 145,
+    "categoria": "comida",
+    "palabra": "sandwich",
+    "pista": "pan"
+  },
+  {
+    "id": 146,
+    "categoria": "comida",
+    "palabra": "waffle",
+    "pista": "cuadros"
+  },
+  {
+    "id": 147,
+    "categoria": "comida",
+    "palabra": "hot cakes",
+    "pista": "miel"
+  },
+  {
+    "id": 148,
+    "categoria": "comida",
+    "palabra": "yogur",
+    "pista": "lácteo"
+  },
+  {
+    "id": 149,
+    "categoria": "comida",
+    "palabra": "cereal",
+    "pista": "leche"
+  },
+  {
+    "id": 150,
+    "categoria": "comida",
+    "palabra": "manzana",
+    "pista": "fruta"
+  },
+  {
+    "id": 151,
+    "categoria": "lugares",
+    "palabra": "París",
+    "pista": "ciudad"
+  },
+  {
+    "id": 152,
+    "categoria": "lugares",
+    "palabra": "playa",
+    "pista": "arena"
+  },
+  {
+    "id": 153,
+    "categoria": "lugares",
+    "palabra": "hospital",
+    "pista": "salud"
+  },
+  {
+    "id": 154,
+    "categoria": "lugares",
+    "palabra": "biblioteca",
+    "pista": "libros"
+  },
+  {
+    "id": 155,
+    "categoria": "lugares",
+    "palabra": "aeropuerto",
+    "pista": "viajes"
+  },
+  {
+    "id": 156,
+    "categoria": "lugares",
+    "palabra": "Egipto",
+    "pista": "pirámides"
+  },
+  {
+    "id": 157,
+    "categoria": "lugares",
+    "palabra": "Nueva York",
+    "pista": "rascacielos"
+  },
+  {
+    "id": 158,
+    "categoria": "lugares",
+    "palabra": "Tokio",
+    "pista": "neón"
+  },
+  {
+    "id": 159,
+    "categoria": "lugares",
+    "palabra": "Roma",
+    "pista": "historia"
+  },
+  {
+    "id": 160,
+    "categoria": "lugares",
+    "palabra": "Londres",
+    "pista": "reloj"
+  },
+  {
+    "id": 161,
+    "categoria": "lugares",
+    "palabra": "Cancún",
+    "pista": "turismo"
+  },
+  {
+    "id": 162,
+    "categoria": "lugares",
+    "palabra": "Machu Picchu",
+    "pista": "montaña"
+  },
+  {
+    "id": 163,
+    "categoria": "lugares",
+    "palabra": "Gran Muralla China",
+    "pista": "muro"
+  },
+  {
+    "id": 164,
+    "categoria": "lugares",
+    "palabra": "Taj Mahal",
+    "pista": "monumento"
+  },
+  {
+    "id": 165,
+    "categoria": "lugares",
+    "palabra": "Disneyland",
+    "pista": "parque"
+  },
+  {
+    "id": 166,
+    "categoria": "lugares",
+    "palabra": "cine",
+    "pista": "pantalla"
+  },
+  {
+    "id": 167,
+    "categoria": "lugares",
+    "palabra": "teatro",
+    "pista": "escenario"
+  },
+  {
+    "id": 168,
+    "categoria": "lugares",
+    "palabra": "estadio",
+    "pista": "gradas"
+  },
+  {
+    "id": 169,
+    "categoria": "lugares",
+    "palabra": "escuela",
+    "pista": "clases"
+  },
+  {
+    "id": 170,
+    "categoria": "lugares",
+    "palabra": "universidad",
+    "pista": "campus"
+  },
+  {
+    "id": 171,
+    "categoria": "lugares",
+    "palabra": "supermercado",
+    "pista": "compras"
+  },
+  {
+    "id": 172,
+    "categoria": "lugares",
+    "palabra": "restaurante",
+    "pista": "mesa"
+  },
+  {
+    "id": 173,
+    "categoria": "lugares",
+    "palabra": "cafetería",
+    "pista": "bebidas"
+  },
+  {
+    "id": 174,
+    "categoria": "lugares",
+    "palabra": "gimnasio",
+    "pista": "pesas"
+  },
+  {
+    "id": 175,
+    "categoria": "lugares",
+    "palabra": "museo",
+    "pista": "arte"
+  },
+  {
+    "id": 176,
+    "categoria": "lugares",
+    "palabra": "zoológico",
+    "pista": "animales"
+  },
+  {
+    "id": 177,
+    "categoria": "lugares",
+    "palabra": "acuario",
+    "pista": "peces"
+  },
+  {
+    "id": 178,
+    "categoria": "lugares",
+    "palabra": "parque",
+    "pista": "árboles"
+  },
+  {
+    "id": 179,
+    "categoria": "lugares",
+    "palabra": "bosque",
+    "pista": "naturaleza"
+  },
+  {
+    "id": 180,
+    "categoria": "lugares",
+    "palabra": "desierto",
+    "pista": "arena"
+  },
+  {
+    "id": 181,
+    "categoria": "lugares",
+    "palabra": "montaña",
+    "pista": "altura"
+  },
+  {
+    "id": 182,
+    "categoria": "lugares",
+    "palabra": "volcán",
+    "pista": "lava"
+  },
+  {
+    "id": 183,
+    "categoria": "lugares",
+    "palabra": "isla",
+    "pista": "mar"
+  },
+  {
+    "id": 184,
+    "categoria": "lugares",
+    "palabra": "castillo",
+    "pista": "realeza"
+  },
+  {
+    "id": 185,
+    "categoria": "lugares",
+    "palabra": "iglesia",
+    "pista": "campanas"
+  },
+  {
+    "id": 186,
+    "categoria": "lugares",
+    "palabra": "oficina",
+    "pista": "trabajo"
+  },
+  {
+    "id": 187,
+    "categoria": "lugares",
+    "palabra": "banco",
+    "pista": "dinero"
+  },
+  {
+    "id": 188,
+    "categoria": "lugares",
+    "palabra": "farmacia",
+    "pista": "medicinas"
+  },
+  {
+    "id": 189,
+    "categoria": "lugares",
+    "palabra": "gasolinera",
+    "pista": "combustible"
+  },
+  {
+    "id": 190,
+    "categoria": "lugares",
+    "palabra": "mercado",
+    "pista": "puestos"
+  },
+  {
+    "id": 191,
+    "categoria": "lugares",
+    "palabra": "hotel",
+    "pista": "hospedaje"
+  },
+  {
+    "id": 192,
+    "categoria": "lugares",
+    "palabra": "puerto",
+    "pista": "barcos"
+  },
+  {
+    "id": 193,
+    "categoria": "lugares",
+    "palabra": "terminal",
+    "pista": "autobuses"
+  },
+  {
+    "id": 194,
+    "categoria": "lugares",
+    "palabra": "metro",
+    "pista": "transporte"
+  },
+  {
+    "id": 195,
+    "categoria": "lugares",
+    "palabra": "carretera",
+    "pista": "autos"
+  },
+  {
+    "id": 196,
+    "categoria": "lugares",
+    "palabra": "rancho",
+    "pista": "campo"
+  },
+  {
+    "id": 197,
+    "categoria": "lugares",
+    "palabra": "granja",
+    "pista": "cultivo"
+  },
+  {
+    "id": 198,
+    "categoria": "lugares",
+    "palabra": "fábrica",
+    "pista": "producción"
+  },
+  {
+    "id": 199,
+    "categoria": "lugares",
+    "palabra": "cárcel",
+    "pista": "rejas"
+  },
+  {
+    "id": 200,
+    "categoria": "lugares",
+    "palabra": "cementerio",
+    "pista": "tumbas"
+  },
+  {
+    "id": 201,
+    "categoria": "animales",
+    "palabra": "elefante",
+    "pista": "grande"
+  },
+  {
+    "id": 202,
+    "categoria": "animales",
+    "palabra": "pingüino",
+    "pista": "frío"
+  },
+  {
+    "id": 203,
+    "categoria": "animales",
+    "palabra": "tiburón",
+    "pista": "mar"
+  },
+  {
+    "id": 204,
+    "categoria": "animales",
+    "palabra": "jirafa",
+    "pista": "cuello"
+  },
+  {
+    "id": 205,
+    "categoria": "animales",
+    "palabra": "mariposa",
+    "pista": "colores"
+  },
+  {
+    "id": 206,
+    "categoria": "animales",
+    "palabra": "león",
+    "pista": "melena"
+  },
+  {
+    "id": 207,
+    "categoria": "animales",
+    "palabra": "pulpo",
+    "pista": "tentáculos"
+  },
+  {
+    "id": 208,
+    "categoria": "animales",
+    "palabra": "perro",
+    "pista": "mascota"
+  },
+  {
+    "id": 209,
+    "categoria": "animales",
+    "palabra": "gato",
+    "pista": "maullido"
+  },
+  {
+    "id": 210,
+    "categoria": "animales",
+    "palabra": "caballo",
+    "pista": "galope"
+  },
+  {
+    "id": 211,
+    "categoria": "animales",
+    "palabra": "vaca",
+    "pista": "leche"
+  },
+  {
+    "id": 212,
+    "categoria": "animales",
+    "palabra": "cerdo",
+    "pista": "granja"
+  },
+  {
+    "id": 213,
+    "categoria": "animales",
+    "palabra": "gallina",
+    "pista": "huevo"
+  },
+  {
+    "id": 214,
+    "categoria": "animales",
+    "palabra": "pato",
+    "pista": "lago"
+  },
+  {
+    "id": 215,
+    "categoria": "animales",
+    "palabra": "conejo",
+    "pista": "orejas"
+  },
+  {
+    "id": 216,
+    "categoria": "animales",
+    "palabra": "oso",
+    "pista": "bosque"
+  },
+  {
+    "id": 217,
+    "categoria": "animales",
+    "palabra": "lobo",
+    "pista": "aullido"
+  },
+  {
+    "id": 218,
+    "categoria": "animales",
+    "palabra": "zorro",
+    "pista": "astuto"
+  },
+  {
+    "id": 219,
+    "categoria": "animales",
+    "palabra": "venado",
+    "pista": "cuernos"
+  },
+  {
+    "id": 220,
+    "categoria": "animales",
+    "palabra": "ardilla",
+    "pista": "nuez"
+  },
+  {
+    "id": 221,
+    "categoria": "animales",
+    "palabra": "cocodrilo",
+    "pista": "pantano"
+  },
+  {
+    "id": 222,
+    "categoria": "animales",
+    "palabra": "serpiente",
+    "pista": "escamas"
+  },
+  {
+    "id": 223,
+    "categoria": "animales",
+    "palabra": "tortuga",
+    "pista": "caparazón"
+  },
+  {
+    "id": 224,
+    "categoria": "animales",
+    "palabra": "rana",
+    "pista": "salto"
+  },
+  {
+    "id": 225,
+    "categoria": "animales",
+    "palabra": "delfín",
+    "pista": "inteligente"
+  },
+  {
+    "id": 226,
+    "categoria": "animales",
+    "palabra": "ballena",
+    "pista": "gigante"
+  },
+  {
+    "id": 227,
+    "categoria": "animales",
+    "palabra": "foca",
+    "pista": "playa"
+  },
+  {
+    "id": 228,
+    "categoria": "animales",
+    "palabra": "águila",
+    "pista": "vuelo"
+  },
+  {
+    "id": 229,
+    "categoria": "animales",
+    "palabra": "búho",
+    "pista": "noche"
+  },
+  {
+    "id": 230,
+    "categoria": "animales",
+    "palabra": "loro",
+    "pista": "habla"
+  },
+  {
+    "id": 231,
+    "categoria": "animales",
+    "palabra": "pavo real",
+    "pista": "plumas"
+  },
+  {
+    "id": 232,
+    "categoria": "animales",
+    "palabra": "flamenco",
+    "pista": "rosa"
+  },
+  {
+    "id": 233,
+    "categoria": "animales",
+    "palabra": "camello",
+    "pista": "desierto"
+  },
+  {
+    "id": 234,
+    "categoria": "animales",
+    "palabra": "canguro",
+    "pista": "bolsa"
+  },
+  {
+    "id": 235,
+    "categoria": "animales",
+    "palabra": "koala",
+    "pista": "eucalipto"
+  },
+  {
+    "id": 236,
+    "categoria": "animales",
+    "palabra": "panda",
+    "pista": "bambú"
+  },
+  {
+    "id": 237,
+    "categoria": "animales",
+    "palabra": "rinoceronte",
+    "pista": "cuerno"
+  },
+  {
+    "id": 238,
+    "categoria": "animales",
+    "palabra": "hipopótamo",
+    "pista": "agua"
+  },
+  {
+    "id": 239,
+    "categoria": "animales",
+    "palabra": "gorila",
+    "pista": "fuerte"
+  },
+  {
+    "id": 240,
+    "categoria": "animales",
+    "palabra": "chimpancé",
+    "pista": "primate"
+  },
+  {
+    "id": 241,
+    "categoria": "animales",
+    "palabra": "murciélago",
+    "pista": "cueva"
+  },
+  {
+    "id": 242,
+    "categoria": "animales",
+    "palabra": "abeja",
+    "pista": "miel"
+  },
+  {
+    "id": 243,
+    "categoria": "animales",
+    "palabra": "hormiga",
+    "pista": "colonia"
+  },
+  {
+    "id": 244,
+    "categoria": "animales",
+    "palabra": "araña",
+    "pista": "telaraña"
+  },
+  {
+    "id": 245,
+    "categoria": "animales",
+    "palabra": "escorpión",
+    "pista": "aguijón"
+  },
+  {
+    "id": 246,
+    "categoria": "animales",
+    "palabra": "medusa",
+    "pista": "gelatina"
+  },
+  {
+    "id": 247,
+    "categoria": "animales",
+    "palabra": "estrella de mar",
+    "pista": "mar"
+  },
+  {
+    "id": 248,
+    "categoria": "animales",
+    "palabra": "caballito de mar",
+    "pista": "océano"
+  },
+  {
+    "id": 249,
+    "categoria": "animales",
+    "palabra": "lagartija",
+    "pista": "pared"
+  },
+  {
+    "id": 250,
+    "categoria": "animales",
+    "palabra": "mapache",
+    "pista": "antifaz"
+  },
+  {
+    "id": 251,
+    "categoria": "profesiones",
+    "palabra": "doctor",
+    "pista": "salud"
+  },
+  {
+    "id": 252,
+    "categoria": "profesiones",
+    "palabra": "bombero",
+    "pista": "fuego"
+  },
+  {
+    "id": 253,
+    "categoria": "profesiones",
+    "palabra": "maestro",
+    "pista": "enseñar"
+  },
+  {
+    "id": 254,
+    "categoria": "profesiones",
+    "palabra": "chef",
+    "pista": "cocina"
+  },
+  {
+    "id": 255,
+    "categoria": "profesiones",
+    "palabra": "astronauta",
+    "pista": "espacio"
+  },
+  {
+    "id": 256,
+    "categoria": "profesiones",
+    "palabra": "policía",
+    "pista": "seguridad"
+  },
+  {
+    "id": 257,
+    "categoria": "profesiones",
+    "palabra": "abogado",
+    "pista": "ley"
+  },
+  {
+    "id": 258,
+    "categoria": "profesiones",
+    "palabra": "ingeniero",
+    "pista": "diseño"
+  },
+  {
+    "id": 259,
+    "categoria": "profesiones",
+    "palabra": "arquitecto",
+    "pista": "planos"
+  },
+  {
+    "id": 260,
+    "categoria": "profesiones",
+    "palabra": "enfermero",
+    "pista": "cuidado"
+  },
+  {
+    "id": 261,
+    "categoria": "profesiones",
+    "palabra": "dentista",
+    "pista": "dientes"
+  },
+  {
+    "id": 262,
+    "categoria": "profesiones",
+    "palabra": "veterinario",
+    "pista": "animales"
+  },
+  {
+    "id": 263,
+    "categoria": "profesiones",
+    "palabra": "piloto",
+    "pista": "avión"
+  },
+  {
+    "id": 264,
+    "categoria": "profesiones",
+    "palabra": "azafata",
+    "pista": "vuelo"
+  },
+  {
+    "id": 265,
+    "categoria": "profesiones",
+    "palabra": "mecánico",
+    "pista": "motor"
+  },
+  {
+    "id": 266,
+    "categoria": "profesiones",
+    "palabra": "electricista",
+    "pista": "cables"
+  },
+  {
+    "id": 267,
+    "categoria": "profesiones",
+    "palabra": "plomero",
+    "pista": "tuberías"
+  },
+  {
+    "id": 268,
+    "categoria": "profesiones",
+    "palabra": "carpintero",
+    "pista": "madera"
+  },
+  {
+    "id": 269,
+    "categoria": "profesiones",
+    "palabra": "albañil",
+    "pista": "obra"
+  },
+  {
+    "id": 270,
+    "categoria": "profesiones",
+    "palabra": "jardinero",
+    "pista": "plantas"
+  },
+  {
+    "id": 271,
+    "categoria": "profesiones",
+    "palabra": "programador",
+    "pista": "código"
+  },
+  {
+    "id": 272,
+    "categoria": "profesiones",
+    "palabra": "diseñador",
+    "pista": "creativo"
+  },
+  {
+    "id": 273,
+    "categoria": "profesiones",
+    "palabra": "fotógrafo",
+    "pista": "cámara"
+  },
+  {
+    "id": 274,
+    "categoria": "profesiones",
+    "palabra": "periodista",
+    "pista": "noticias"
+  },
+  {
+    "id": 275,
+    "categoria": "profesiones",
+    "palabra": "actor",
+    "pista": "escena"
+  },
+  {
+    "id": 276,
+    "categoria": "profesiones",
+    "palabra": "cantante",
+    "pista": "voz"
+  },
+  {
+    "id": 277,
+    "categoria": "profesiones",
+    "palabra": "bailarín",
+    "pista": "movimiento"
+  },
+  {
+    "id": 278,
+    "categoria": "profesiones",
+    "palabra": "músico",
+    "pista": "instrumento"
+  },
+  {
+    "id": 279,
+    "categoria": "profesiones",
+    "palabra": "pintor",
+    "pista": "arte"
+  },
+  {
+    "id": 280,
+    "categoria": "profesiones",
+    "palabra": "escritor",
+    "pista": "libros"
+  },
+  {
+    "id": 281,
+    "categoria": "profesiones",
+    "palabra": "contador",
+    "pista": "números"
+  },
+  {
+    "id": 282,
+    "categoria": "profesiones",
+    "palabra": "economista",
+    "pista": "mercado"
+  },
+  {
+    "id": 283,
+    "categoria": "profesiones",
+    "palabra": "psicólogo",
+    "pista": "mente"
+  },
+  {
+    "id": 284,
+    "categoria": "profesiones",
+    "palabra": "nutriólogo",
+    "pista": "dieta"
+  },
+  {
+    "id": 285,
+    "categoria": "profesiones",
+    "palabra": "farmacéutico",
+    "pista": "medicina"
+  },
+  {
+    "id": 286,
+    "categoria": "profesiones",
+    "palabra": "barbero",
+    "pista": "cabello"
+  },
+  {
+    "id": 287,
+    "categoria": "profesiones",
+    "palabra": "cosmetóloga",
+    "pista": "belleza"
+  },
+  {
+    "id": 288,
+    "categoria": "profesiones",
+    "palabra": "chofer",
+    "pista": "volante"
+  },
+  {
+    "id": 289,
+    "categoria": "profesiones",
+    "palabra": "taxista",
+    "pista": "ciudad"
+  },
+  {
+    "id": 290,
+    "categoria": "profesiones",
+    "palabra": "repartidor",
+    "pista": "entregas"
+  },
+  {
+    "id": 291,
+    "categoria": "profesiones",
+    "palabra": "mesero",
+    "pista": "restaurante"
+  },
+  {
+    "id": 292,
+    "categoria": "profesiones",
+    "palabra": "cajero",
+    "pista": "cobro"
+  },
+  {
+    "id": 293,
+    "categoria": "profesiones",
+    "palabra": "vendedor",
+    "pista": "ventas"
+  },
+  {
+    "id": 294,
+    "categoria": "profesiones",
+    "palabra": "agricultor",
+    "pista": "campo"
+  },
+  {
+    "id": 295,
+    "categoria": "profesiones",
+    "palabra": "ganadero",
+    "pista": "animales"
+  },
+  {
+    "id": 296,
+    "categoria": "profesiones",
+    "palabra": "pescador",
+    "pista": "mar"
+  },
+  {
+    "id": 297,
+    "categoria": "profesiones",
+    "palabra": "minero",
+    "pista": "subsuelo"
+  },
+  {
+    "id": 298,
+    "categoria": "profesiones",
+    "palabra": "científico",
+    "pista": "laboratorio"
+  },
+  {
+    "id": 299,
+    "categoria": "profesiones",
+    "palabra": "detective",
+    "pista": "pistas"
+  },
+  {
+    "id": 300,
+    "categoria": "profesiones",
+    "palabra": "traductor",
+    "pista": "idiomas"
+  },
+  {
+    "id": 301,
+    "categoria": "deportes",
+    "palabra": "fútbol",
+    "pista": "pelota"
+  },
+  {
+    "id": 302,
+    "categoria": "deportes",
+    "palabra": "natación",
+    "pista": "agua"
+  },
+  {
+    "id": 303,
+    "categoria": "deportes",
+    "palabra": "tenis",
+    "pista": "raqueta"
+  },
+  {
+    "id": 304,
+    "categoria": "deportes",
+    "palabra": "boxeo",
+    "pista": "guantes"
+  },
+  {
+    "id": 305,
+    "categoria": "deportes",
+    "palabra": "ajedrez",
+    "pista": "estrategia"
+  },
+  {
+    "id": 306,
+    "categoria": "deportes",
+    "palabra": "béisbol",
+    "pista": "bate"
+  },
+  {
+    "id": 307,
+    "categoria": "deportes",
+    "palabra": "basquetbol",
+    "pista": "canasta"
+  },
+  {
+    "id": 308,
+    "categoria": "deportes",
+    "palabra": "voleibol",
+    "pista": "red"
+  },
+  {
+    "id": 309,
+    "categoria": "deportes",
+    "palabra": "golf",
+    "pista": "hoyo"
+  },
+  {
+    "id": 310,
+    "categoria": "deportes",
+    "palabra": "ciclismo",
+    "pista": "bicicleta"
+  },
+  {
+    "id": 311,
+    "categoria": "deportes",
+    "palabra": "atletismo",
+    "pista": "pista"
+  },
+  {
+    "id": 312,
+    "categoria": "deportes",
+    "palabra": "maratón",
+    "pista": "resistencia"
+  },
+  {
+    "id": 313,
+    "categoria": "deportes",
+    "palabra": "surf",
+    "pista": "olas"
+  },
+  {
+    "id": 314,
+    "categoria": "deportes",
+    "palabra": "skateboarding",
+    "pista": "tabla"
+  },
+  {
+    "id": 315,
+    "categoria": "deportes",
+    "palabra": "snowboard",
+    "pista": "nieve"
+  },
+  {
+    "id": 316,
+    "categoria": "deportes",
+    "palabra": "esquí",
+    "pista": "montaña"
+  },
+  {
+    "id": 317,
+    "categoria": "deportes",
+    "palabra": "rugby",
+    "pista": "contacto"
+  },
+  {
+    "id": 318,
+    "categoria": "deportes",
+    "palabra": "fútbol americano",
+    "pista": "casco"
+  },
+  {
+    "id": 319,
+    "categoria": "deportes",
+    "palabra": "hockey",
+    "pista": "puck"
+  },
+  {
+    "id": 320,
+    "categoria": "deportes",
+    "palabra": "patinaje",
+    "pista": "hielo"
+  },
+  {
+    "id": 321,
+    "categoria": "deportes",
+    "palabra": "karate",
+    "pista": "golpes"
+  },
+  {
+    "id": 322,
+    "categoria": "deportes",
+    "palabra": "judo",
+    "pista": "llaves"
+  },
+  {
+    "id": 323,
+    "categoria": "deportes",
+    "palabra": "taekwondo",
+    "pista": "patadas"
+  },
+  {
+    "id": 324,
+    "categoria": "deportes",
+    "palabra": "lucha libre",
+    "pista": "máscara"
+  },
+  {
+    "id": 325,
+    "categoria": "deportes",
+    "palabra": "MMA",
+    "pista": "jaula"
+  },
+  {
+    "id": 326,
+    "categoria": "deportes",
+    "palabra": "levantamiento de pesas",
+    "pista": "fuerza"
+  },
+  {
+    "id": 327,
+    "categoria": "deportes",
+    "palabra": "gimnasia",
+    "pista": "flexibilidad"
+  },
+  {
+    "id": 328,
+    "categoria": "deportes",
+    "palabra": "clavados",
+    "pista": "altura"
+  },
+  {
+    "id": 329,
+    "categoria": "deportes",
+    "palabra": "remo",
+    "pista": "bote"
+  },
+  {
+    "id": 330,
+    "categoria": "deportes",
+    "palabra": "vela",
+    "pista": "viento"
+  },
+  {
+    "id": 331,
+    "categoria": "deportes",
+    "palabra": "arquería",
+    "pista": "flecha"
+  },
+  {
+    "id": 332,
+    "categoria": "deportes",
+    "palabra": "tiro deportivo",
+    "pista": "puntería"
+  },
+  {
+    "id": 333,
+    "categoria": "deportes",
+    "palabra": "equitación",
+    "pista": "caballo"
+  },
+  {
+    "id": 334,
+    "categoria": "deportes",
+    "palabra": "polo",
+    "pista": "caballo"
+  },
+  {
+    "id": 335,
+    "categoria": "deportes",
+    "palabra": "cricket",
+    "pista": "bate"
+  },
+  {
+    "id": 336,
+    "categoria": "deportes",
+    "palabra": "ping pong",
+    "pista": "mesa"
+  },
+  {
+    "id": 337,
+    "categoria": "deportes",
+    "palabra": "bádminton",
+    "pista": "pluma"
+  },
+  {
+    "id": 338,
+    "categoria": "deportes",
+    "palabra": "handball",
+    "pista": "mano"
+  },
+  {
+    "id": 339,
+    "categoria": "deportes",
+    "palabra": "waterpolo",
+    "pista": "agua"
+  },
+  {
+    "id": 340,
+    "categoria": "deportes",
+    "palabra": "triatlón",
+    "pista": "tres"
+  },
+  {
+    "id": 341,
+    "categoria": "deportes",
+    "palabra": "parkour",
+    "pista": "saltos"
+  },
+  {
+    "id": 342,
+    "categoria": "deportes",
+    "palabra": "escalada",
+    "pista": "pared"
+  },
+  {
+    "id": 343,
+    "categoria": "deportes",
+    "palabra": "senderismo",
+    "pista": "ruta"
+  },
+  {
+    "id": 344,
+    "categoria": "deportes",
+    "palabra": "motocross",
+    "pista": "moto"
+  },
+  {
+    "id": 345,
+    "categoria": "deportes",
+    "palabra": "rally",
+    "pista": "auto"
+  },
+  {
+    "id": 346,
+    "categoria": "deportes",
+    "palabra": "fórmula 1",
+    "pista": "velocidad"
+  },
+  {
+    "id": 347,
+    "categoria": "deportes",
+    "palabra": "nascar",
+    "pista": "circuito"
+  },
+  {
+    "id": 348,
+    "categoria": "deportes",
+    "palabra": "beisbol5",
+    "pista": "urbano"
+  },
+  {
+    "id": 349,
+    "categoria": "deportes",
+    "palabra": "pickleball",
+    "pista": "paleta"
+  },
+  {
+    "id": 350,
+    "categoria": "deportes",
+    "palabra": "crossfit",
+    "pista": "intensidad"
+  },
+  {
+    "id": 351,
+    "categoria": "peliculas",
+    "palabra": "Titanic",
+    "pista": "barco"
+  },
+  {
+    "id": 352,
+    "categoria": "peliculas",
+    "palabra": "Avatar",
+    "pista": "azul"
+  },
+  {
+    "id": 353,
+    "categoria": "peliculas",
+    "palabra": "Shrek",
+    "pista": "verde"
+  },
+  {
+    "id": 354,
+    "categoria": "peliculas",
+    "palabra": "Frozen",
+    "pista": "hielo"
+  },
+  {
+    "id": 355,
+    "categoria": "peliculas",
+    "palabra": "Toy Story",
+    "pista": "juguetes"
+  },
+  {
+    "id": 356,
+    "categoria": "peliculas",
+    "palabra": "El Rey León",
+    "pista": "sabana"
+  },
+  {
+    "id": 357,
+    "categoria": "peliculas",
+    "palabra": "Buscando a Nemo",
+    "pista": "pez"
+  },
+  {
+    "id": 358,
+    "categoria": "peliculas",
+    "palabra": "Coco",
+    "pista": "recuerdo"
+  },
+  {
+    "id": 359,
+    "categoria": "peliculas",
+    "palabra": "Up",
+    "pista": "globos"
+  },
+  {
+    "id": 360,
+    "categoria": "peliculas",
+    "palabra": "Intensamente",
+    "pista": "emociones"
+  },
+  {
+    "id": 361,
+    "categoria": "peliculas",
+    "palabra": "Harry Potter",
+    "pista": "magia"
+  },
+  {
+    "id": 362,
+    "categoria": "peliculas",
+    "palabra": "El Señor de los Anillos",
+    "pista": "anillo"
+  },
+  {
+    "id": 363,
+    "categoria": "peliculas",
+    "palabra": "Star Wars",
+    "pista": "galaxia"
+  },
+  {
+    "id": 364,
+    "categoria": "peliculas",
+    "palabra": "Jurassic Park",
+    "pista": "dinosaurios"
+  },
+  {
+    "id": 365,
+    "categoria": "peliculas",
+    "palabra": "Matrix",
+    "pista": "simulación"
+  },
+  {
+    "id": 366,
+    "categoria": "peliculas",
+    "palabra": "Volver al Futuro",
+    "pista": "tiempo"
+  },
+  {
+    "id": 367,
+    "categoria": "peliculas",
+    "palabra": "Forrest Gump",
+    "pista": "correr"
+  },
+  {
+    "id": 368,
+    "categoria": "peliculas",
+    "palabra": "Gladiador",
+    "pista": "arena"
+  },
+  {
+    "id": 369,
+    "categoria": "peliculas",
+    "palabra": "Rocky",
+    "pista": "boxeo"
+  },
+  {
+    "id": 370,
+    "categoria": "peliculas",
+    "palabra": "Joker",
+    "pista": "payaso"
+  },
+  {
+    "id": 371,
+    "categoria": "peliculas",
+    "palabra": "Batman",
+    "pista": "oscuro"
+  },
+  {
+    "id": 372,
+    "categoria": "peliculas",
+    "palabra": "Superman",
+    "pista": "capa"
+  },
+  {
+    "id": 373,
+    "categoria": "peliculas",
+    "palabra": "Spider-Man",
+    "pista": "telaraña"
+  },
+  {
+    "id": 374,
+    "categoria": "peliculas",
+    "palabra": "Iron Man",
+    "pista": "armadura"
+  },
+  {
+    "id": 375,
+    "categoria": "peliculas",
+    "palabra": "Avengers",
+    "pista": "equipo"
+  },
+  {
+    "id": 376,
+    "categoria": "peliculas",
+    "palabra": "Black Panther",
+    "pista": "wakanda"
+  },
+  {
+    "id": 377,
+    "categoria": "peliculas",
+    "palabra": "Doctor Strange",
+    "pista": "hechicero"
+  },
+  {
+    "id": 378,
+    "categoria": "peliculas",
+    "palabra": "Deadpool",
+    "pista": "antiheroe"
+  },
+  {
+    "id": 379,
+    "categoria": "peliculas",
+    "palabra": "Piratas del Caribe",
+    "pista": "piratas"
+  },
+  {
+    "id": 380,
+    "categoria": "peliculas",
+    "palabra": "Indiana Jones",
+    "pista": "aventura"
+  },
+  {
+    "id": 381,
+    "categoria": "peliculas",
+    "palabra": "La La Land",
+    "pista": "música"
+  },
+  {
+    "id": 382,
+    "categoria": "peliculas",
+    "palabra": "El Padrino",
+    "pista": "familia"
+  },
+  {
+    "id": 383,
+    "categoria": "peliculas",
+    "palabra": "Scarface",
+    "pista": "mafia"
+  },
+  {
+    "id": 384,
+    "categoria": "peliculas",
+    "palabra": "Pulp Fiction",
+    "pista": "historias"
+  },
+  {
+    "id": 385,
+    "categoria": "peliculas",
+    "palabra": "El Resplandor",
+    "pista": "hotel"
+  },
+  {
+    "id": 386,
+    "categoria": "peliculas",
+    "palabra": "It",
+    "pista": "payaso"
+  },
+  {
+    "id": 387,
+    "categoria": "peliculas",
+    "palabra": "El Conjuro",
+    "pista": "terror"
+  },
+  {
+    "id": 388,
+    "categoria": "peliculas",
+    "palabra": "Actividad Paranormal",
+    "pista": "cámara"
+  },
+  {
+    "id": 389,
+    "categoria": "peliculas",
+    "palabra": "Scream",
+    "pista": "máscara"
+  },
+  {
+    "id": 390,
+    "categoria": "peliculas",
+    "palabra": "Chucky",
+    "pista": "muñeco"
+  },
+  {
+    "id": 391,
+    "categoria": "peliculas",
+    "palabra": "Rápidos y Furiosos",
+    "pista": "autos"
+  },
+  {
+    "id": 392,
+    "categoria": "peliculas",
+    "palabra": "John Wick",
+    "pista": "perro"
+  },
+  {
+    "id": 393,
+    "categoria": "peliculas",
+    "palabra": "Misión Imposible",
+    "pista": "espía"
+  },
+  {
+    "id": 394,
+    "categoria": "peliculas",
+    "palabra": "Top Gun",
+    "pista": "aviones"
+  },
+  {
+    "id": 395,
+    "categoria": "peliculas",
+    "palabra": "Mad Max",
+    "pista": "desierto"
+  },
+  {
+    "id": 396,
+    "categoria": "peliculas",
+    "palabra": "Los Juegos del Hambre",
+    "pista": "arena"
+  },
+  {
+    "id": 397,
+    "categoria": "peliculas",
+    "palabra": "Crepúsculo",
+    "pista": "vampiros"
+  },
+  {
+    "id": 398,
+    "categoria": "peliculas",
+    "palabra": "Mean Girls",
+    "pista": "escuela"
+  },
+  {
+    "id": 399,
+    "categoria": "peliculas",
+    "palabra": "Mi pobre angelito",
+    "pista": "navidad"
+  },
+  {
+    "id": 400,
+    "categoria": "peliculas",
+    "palabra": "Moana",
+    "pista": "océano"
+  },
+  {
+    "id": 401,
+    "categoria": "anime",
+    "palabra": "Naruto",
+    "pista": "ninja"
+  },
+  {
+    "id": 402,
+    "categoria": "anime",
+    "palabra": "Sasuke",
+    "pista": "rival"
+  },
+  {
+    "id": 403,
+    "categoria": "anime",
+    "palabra": "Sakura",
+    "pista": "médica"
+  },
+  {
+    "id": 404,
+    "categoria": "anime",
+    "palabra": "Kakashi",
+    "pista": "sensei"
+  },
+  {
+    "id": 405,
+    "categoria": "anime",
+    "palabra": "Itachi",
+    "pista": "hermano"
+  },
+  {
+    "id": 406,
+    "categoria": "anime",
+    "palabra": "Goku",
+    "pista": "saiyajin"
+  },
+  {
+    "id": 407,
+    "categoria": "anime",
+    "palabra": "Vegeta",
+    "pista": "príncipe"
+  },
+  {
+    "id": 408,
+    "categoria": "anime",
+    "palabra": "Gohan",
+    "pista": "hijo"
+  },
+  {
+    "id": 409,
+    "categoria": "anime",
+    "palabra": "Piccolo",
+    "pista": "verde"
+  },
+  {
+    "id": 410,
+    "categoria": "anime",
+    "palabra": "Freezer",
+    "pista": "villano"
+  },
+  {
+    "id": 411,
+    "categoria": "anime",
+    "palabra": "Luffy",
+    "pista": "pirata"
+  },
+  {
+    "id": 412,
+    "categoria": "anime",
+    "palabra": "Zoro",
+    "pista": "espadas"
+  },
+  {
+    "id": 413,
+    "categoria": "anime",
+    "palabra": "Nami",
+    "pista": "mapas"
+  },
+  {
+    "id": 414,
+    "categoria": "anime",
+    "palabra": "Sanji",
+    "pista": "cocinero"
+  },
+  {
+    "id": 415,
+    "categoria": "anime",
+    "palabra": "Chopper",
+    "pista": "doctor"
+  },
+  {
+    "id": 416,
+    "categoria": "anime",
+    "palabra": "Ichigo",
+    "pista": "shinigami"
+  },
+  {
+    "id": 417,
+    "categoria": "anime",
+    "palabra": "Rukia",
+    "pista": "alma"
+  },
+  {
+    "id": 418,
+    "categoria": "anime",
+    "palabra": "Light Yagami",
+    "pista": "libreta"
+  },
+  {
+    "id": 419,
+    "categoria": "anime",
+    "palabra": "L",
+    "pista": "detective"
+  },
+  {
+    "id": 420,
+    "categoria": "anime",
+    "palabra": "Ryuk",
+    "pista": "manzana"
+  },
+  {
+    "id": 421,
+    "categoria": "anime",
+    "palabra": "Eren Yeager",
+    "pista": "titán"
+  },
+  {
+    "id": 422,
+    "categoria": "anime",
+    "palabra": "Mikasa",
+    "pista": "bufanda"
+  },
+  {
+    "id": 423,
+    "categoria": "anime",
+    "palabra": "Levi",
+    "pista": "soldado"
+  },
+  {
+    "id": 424,
+    "categoria": "anime",
+    "palabra": "Tanjiro",
+    "pista": "demonios"
+  },
+  {
+    "id": 425,
+    "categoria": "anime",
+    "palabra": "Nezuko",
+    "pista": "caja"
+  },
+  {
+    "id": 426,
+    "categoria": "anime",
+    "palabra": "Zenitsu",
+    "pista": "rayo"
+  },
+  {
+    "id": 427,
+    "categoria": "anime",
+    "palabra": "Inosuke",
+    "pista": "jabalí"
+  },
+  {
+    "id": 428,
+    "categoria": "anime",
+    "palabra": "Gojo Satoru",
+    "pista": "ojos"
+  },
+  {
+    "id": 429,
+    "categoria": "anime",
+    "palabra": "Yuji Itadori",
+    "pista": "maldición"
+  },
+  {
+    "id": 430,
+    "categoria": "anime",
+    "palabra": "Megumi Fushiguro",
+    "pista": "sombras"
+  },
+  {
+    "id": 431,
+    "categoria": "anime",
+    "palabra": "Sailor Moon",
+    "pista": "luna"
+  },
+  {
+    "id": 432,
+    "categoria": "anime",
+    "palabra": "Usagi Tsukino",
+    "pista": "magia"
+  },
+  {
+    "id": 433,
+    "categoria": "anime",
+    "palabra": "Edward Elric",
+    "pista": "alquimia"
+  },
+  {
+    "id": 434,
+    "categoria": "anime",
+    "palabra": "Alphonse Elric",
+    "pista": "armadura"
+  },
+  {
+    "id": 435,
+    "categoria": "anime",
+    "palabra": "Spike Spiegel",
+    "pista": "cazarrecompensas"
+  },
+  {
+    "id": 436,
+    "categoria": "anime",
+    "palabra": "Saitama",
+    "pista": "calvo"
+  },
+  {
+    "id": 437,
+    "categoria": "anime",
+    "palabra": "Genos",
+    "pista": "cyborg"
+  },
+  {
+    "id": 438,
+    "categoria": "anime",
+    "palabra": "Deku",
+    "pista": "héroe"
+  },
+  {
+    "id": 439,
+    "categoria": "anime",
+    "palabra": "Bakugo",
+    "pista": "explosión"
+  },
+  {
+    "id": 440,
+    "categoria": "anime",
+    "palabra": "All Might",
+    "pista": "símbolo"
+  },
+  {
+    "id": 441,
+    "categoria": "anime",
+    "palabra": "Ash Ketchum",
+    "pista": "entrenador"
+  },
+  {
+    "id": 442,
+    "categoria": "anime",
+    "palabra": "Pikachu",
+    "pista": "eléctrico"
+  },
+  {
+    "id": 443,
+    "categoria": "anime",
+    "palabra": "Gon Freecss",
+    "pista": "cazador"
+  },
+  {
+    "id": 444,
+    "categoria": "anime",
+    "palabra": "Killua",
+    "pista": "rayo"
+  },
+  {
+    "id": 445,
+    "categoria": "anime",
+    "palabra": "Kurapika",
+    "pista": "cadenas"
+  },
+  {
+    "id": 446,
+    "categoria": "anime",
+    "palabra": "Inuyasha",
+    "pista": "demonio"
+  },
+  {
+    "id": 447,
+    "categoria": "anime",
+    "palabra": "Kagome",
+    "pista": "pozo"
+  },
+  {
+    "id": 448,
+    "categoria": "anime",
+    "palabra": "Totoro",
+    "pista": "bosque"
+  },
+  {
+    "id": 449,
+    "categoria": "anime",
+    "palabra": "Chihiro",
+    "pista": "espíritus"
+  },
+  {
+    "id": 450,
+    "categoria": "anime",
+    "palabra": "Haku",
+    "pista": "dragón"
+  },
+  {
+    "id": 451,
+    "categoria": "personajes",
+    "palabra": "Mario",
+    "pista": "fontanero"
+  },
+  {
+    "id": 452,
+    "categoria": "personajes",
+    "palabra": "Luigi",
+    "pista": "hermano"
+  },
+  {
+    "id": 453,
+    "categoria": "personajes",
+    "palabra": "Peach",
+    "pista": "princesa"
+  },
+  {
+    "id": 454,
+    "categoria": "personajes",
+    "palabra": "Bowser",
+    "pista": "caparazón"
+  },
+  {
+    "id": 455,
+    "categoria": "personajes",
+    "palabra": "Sonic",
+    "pista": "velocidad"
+  },
+  {
+    "id": 456,
+    "categoria": "personajes",
+    "palabra": "Tails",
+    "pista": "colas"
+  },
+  {
+    "id": 457,
+    "categoria": "personajes",
+    "palabra": "Mickey Mouse",
+    "pista": "ratón"
+  },
+  {
+    "id": 458,
+    "categoria": "personajes",
+    "palabra": "Minnie Mouse",
+    "pista": "moño"
+  },
+  {
+    "id": 459,
+    "categoria": "personajes",
+    "palabra": "Donald Duck",
+    "pista": "pato"
+  },
+  {
+    "id": 460,
+    "categoria": "personajes",
+    "palabra": "Goofy",
+    "pista": "torpe"
+  },
+  {
+    "id": 461,
+    "categoria": "personajes",
+    "palabra": "Bob Esponja",
+    "pista": "mar"
+  },
+  {
+    "id": 462,
+    "categoria": "personajes",
+    "palabra": "Patricio Estrella",
+    "pista": "estrella"
+  },
+  {
+    "id": 463,
+    "categoria": "personajes",
+    "palabra": "Calamardo",
+    "pista": "vecino"
+  },
+  {
+    "id": 464,
+    "categoria": "personajes",
+    "palabra": "Homero Simpson",
+    "pista": "rosquilla"
+  },
+  {
+    "id": 465,
+    "categoria": "personajes",
+    "palabra": "Marge Simpson",
+    "pista": "cabello"
+  },
+  {
+    "id": 466,
+    "categoria": "personajes",
+    "palabra": "Bart Simpson",
+    "pista": "travieso"
+  },
+  {
+    "id": 467,
+    "categoria": "personajes",
+    "palabra": "Lisa Simpson",
+    "pista": "saxofón"
+  },
+  {
+    "id": 468,
+    "categoria": "personajes",
+    "palabra": "Peter Griffin",
+    "pista": "familia"
+  },
+  {
+    "id": 469,
+    "categoria": "personajes",
+    "palabra": "Rick Sánchez",
+    "pista": "científico"
+  },
+  {
+    "id": 470,
+    "categoria": "personajes",
+    "palabra": "Morty Smith",
+    "pista": "nieto"
+  },
+  {
+    "id": 471,
+    "categoria": "personajes",
+    "palabra": "Bugs Bunny",
+    "pista": "conejo"
+  },
+  {
+    "id": 472,
+    "categoria": "personajes",
+    "palabra": "Pato Lucas",
+    "pista": "pato"
+  },
+  {
+    "id": 473,
+    "categoria": "personajes",
+    "palabra": "Scooby-Doo",
+    "pista": "perro"
+  },
+  {
+    "id": 474,
+    "categoria": "personajes",
+    "palabra": "Shaggy",
+    "pista": "hambre"
+  },
+  {
+    "id": 475,
+    "categoria": "personajes",
+    "palabra": "Tom",
+    "pista": "gato"
+  },
+  {
+    "id": 476,
+    "categoria": "personajes",
+    "palabra": "Jerry",
+    "pista": "ratón"
+  },
+  {
+    "id": 477,
+    "categoria": "personajes",
+    "palabra": "Garfield",
+    "pista": "lasaña"
+  },
+  {
+    "id": 478,
+    "categoria": "personajes",
+    "palabra": "Snoopy",
+    "pista": "beagle"
+  },
+  {
+    "id": 479,
+    "categoria": "personajes",
+    "palabra": "Charlie Brown",
+    "pista": "niño"
+  },
+  {
+    "id": 480,
+    "categoria": "personajes",
+    "palabra": "Doraemon",
+    "pista": "robot"
+  },
+  {
+    "id": 481,
+    "categoria": "personajes",
+    "palabra": "Hello Kitty",
+    "pista": "moño"
+  },
+  {
+    "id": 482,
+    "categoria": "personajes",
+    "palabra": "Popeye",
+    "pista": "espinaca"
+  },
+  {
+    "id": 483,
+    "categoria": "personajes",
+    "palabra": "Olive Oyl",
+    "pista": "delgada"
+  },
+  {
+    "id": 484,
+    "categoria": "personajes",
+    "palabra": "He-Man",
+    "pista": "espada"
+  },
+  {
+    "id": 485,
+    "categoria": "personajes",
+    "palabra": "Skeletor",
+    "pista": "calavera"
+  },
+  {
+    "id": 486,
+    "categoria": "personajes",
+    "palabra": "Optimus Prime",
+    "pista": "camión"
+  },
+  {
+    "id": 487,
+    "categoria": "personajes",
+    "palabra": "Bumblebee",
+    "pista": "amarillo"
+  },
+  {
+    "id": 488,
+    "categoria": "personajes",
+    "palabra": "Hulk",
+    "pista": "verde"
+  },
+  {
+    "id": 489,
+    "categoria": "personajes",
+    "palabra": "Thor",
+    "pista": "martillo"
+  },
+  {
+    "id": 490,
+    "categoria": "personajes",
+    "palabra": "Capitán América",
+    "pista": "escudo"
+  },
+  {
+    "id": 491,
+    "categoria": "personajes",
+    "palabra": "Wonder Woman",
+    "pista": "lazo"
+  },
+  {
+    "id": 492,
+    "categoria": "personajes",
+    "palabra": "Flash",
+    "pista": "rápido"
+  },
+  {
+    "id": 493,
+    "categoria": "personajes",
+    "palabra": "Aquaman",
+    "pista": "agua"
+  },
+  {
+    "id": 494,
+    "categoria": "personajes",
+    "palabra": "Wolverine",
+    "pista": "garras"
+  },
+  {
+    "id": 495,
+    "categoria": "personajes",
+    "palabra": "Deadpool",
+    "pista": "rojo"
+  },
+  {
+    "id": 496,
+    "categoria": "personajes",
+    "palabra": "Elsa",
+    "pista": "hielo"
+  },
+  {
+    "id": 497,
+    "categoria": "personajes",
+    "palabra": "Anna",
+    "pista": "hermana"
+  },
+  {
+    "id": 498,
+    "categoria": "personajes",
+    "palabra": "Mulan",
+    "pista": "guerrera"
+  },
+  {
+    "id": 499,
+    "categoria": "personajes",
+    "palabra": "Aladdín",
+    "pista": "lámpara"
+  },
+  {
+    "id": 500,
+    "categoria": "personajes",
+    "palabra": "Simba",
+    "pista": "león"
+  },
+  {
+    "id": 501,
+    "categoria": "videojuegos",
+    "palabra": "Minecraft",
+    "pista": "bloques"
+  },
+  {
+    "id": 502,
+    "categoria": "videojuegos",
+    "palabra": "Fortnite",
+    "pista": "batalla"
+  },
+  {
+    "id": 503,
+    "categoria": "videojuegos",
+    "palabra": "Roblox",
+    "pista": "mundos"
+  },
+  {
+    "id": 504,
+    "categoria": "videojuegos",
+    "palabra": "Among Us",
+    "pista": "impostor"
+  },
+  {
+    "id": 505,
+    "categoria": "videojuegos",
+    "palabra": "Fall Guys",
+    "pista": "carreras"
+  },
+  {
+    "id": 506,
+    "categoria": "videojuegos",
+    "palabra": "League of Legends",
+    "pista": "campeones"
+  },
+  {
+    "id": 507,
+    "categoria": "videojuegos",
+    "palabra": "Valorant",
+    "pista": "táctico"
+  },
+  {
+    "id": 508,
+    "categoria": "videojuegos",
+    "palabra": "Counter-Strike",
+    "pista": "disparos"
+  },
+  {
+    "id": 509,
+    "categoria": "videojuegos",
+    "palabra": "Call of Duty",
+    "pista": "guerra"
+  },
+  {
+    "id": 510,
+    "categoria": "videojuegos",
+    "palabra": "Halo",
+    "pista": "armadura"
+  },
+  {
+    "id": 511,
+    "categoria": "videojuegos",
+    "palabra": "GTA V",
+    "pista": "ciudad"
+  },
+  {
+    "id": 512,
+    "categoria": "videojuegos",
+    "palabra": "Red Dead Redemption",
+    "pista": "vaqueros"
+  },
+  {
+    "id": 513,
+    "categoria": "videojuegos",
+    "palabra": "The Legend of Zelda",
+    "pista": "aventura"
+  },
+  {
+    "id": 514,
+    "categoria": "videojuegos",
+    "palabra": "Super Mario Bros",
+    "pista": "saltos"
+  },
+  {
+    "id": 515,
+    "categoria": "videojuegos",
+    "palabra": "Mario Kart",
+    "pista": "carreras"
+  },
+  {
+    "id": 516,
+    "categoria": "videojuegos",
+    "palabra": "Pokémon",
+    "pista": "criaturas"
+  },
+  {
+    "id": 517,
+    "categoria": "videojuegos",
+    "palabra": "Animal Crossing",
+    "pista": "isla"
+  },
+  {
+    "id": 518,
+    "categoria": "videojuegos",
+    "palabra": "Stardew Valley",
+    "pista": "granja"
+  },
+  {
+    "id": 519,
+    "categoria": "videojuegos",
+    "palabra": "Terraria",
+    "pista": "explorar"
+  },
+  {
+    "id": 520,
+    "categoria": "videojuegos",
+    "palabra": "The Sims",
+    "pista": "vida"
+  },
+  {
+    "id": 521,
+    "categoria": "videojuegos",
+    "palabra": "FIFA",
+    "pista": "fútbol"
+  },
+  {
+    "id": 522,
+    "categoria": "videojuegos",
+    "palabra": "EA Sports FC",
+    "pista": "balón"
+  },
+  {
+    "id": 523,
+    "categoria": "videojuegos",
+    "palabra": "NBA 2K",
+    "pista": "cancha"
+  },
+  {
+    "id": 524,
+    "categoria": "videojuegos",
+    "palabra": "Rocket League",
+    "pista": "autos"
+  },
+  {
+    "id": 525,
+    "categoria": "videojuegos",
+    "palabra": "Overwatch",
+    "pista": "héroes"
+  },
+  {
+    "id": 526,
+    "categoria": "videojuegos",
+    "palabra": "Apex Legends",
+    "pista": "escuadra"
+  },
+  {
+    "id": 527,
+    "categoria": "videojuegos",
+    "palabra": "PUBG",
+    "pista": "supervivencia"
+  },
+  {
+    "id": 528,
+    "categoria": "videojuegos",
+    "palabra": "Free Fire",
+    "pista": "móvil"
+  },
+  {
+    "id": 529,
+    "categoria": "videojuegos",
+    "palabra": "Clash Royale",
+    "pista": "cartas"
+  },
+  {
+    "id": 530,
+    "categoria": "videojuegos",
+    "palabra": "Clash of Clans",
+    "pista": "aldea"
+  },
+  {
+    "id": 531,
+    "categoria": "videojuegos",
+    "palabra": "Candy Crush",
+    "pista": "dulces"
+  },
+  {
+    "id": 532,
+    "categoria": "videojuegos",
+    "palabra": "Tetris",
+    "pista": "bloques"
+  },
+  {
+    "id": 533,
+    "categoria": "videojuegos",
+    "palabra": "Pac-Man",
+    "pista": "laberinto"
+  },
+  {
+    "id": 534,
+    "categoria": "videojuegos",
+    "palabra": "Street Fighter",
+    "pista": "peleas"
+  },
+  {
+    "id": 535,
+    "categoria": "videojuegos",
+    "palabra": "Mortal Kombat",
+    "pista": "fatality"
+  },
+  {
+    "id": 536,
+    "categoria": "videojuegos",
+    "palabra": "Tekken",
+    "pista": "combate"
+  },
+  {
+    "id": 537,
+    "categoria": "videojuegos",
+    "palabra": "Elden Ring",
+    "pista": "difícil"
+  },
+  {
+    "id": 538,
+    "categoria": "videojuegos",
+    "palabra": "Dark Souls",
+    "pista": "jefes"
+  },
+  {
+    "id": 539,
+    "categoria": "videojuegos",
+    "palabra": "God of War",
+    "pista": "dioses"
+  },
+  {
+    "id": 540,
+    "categoria": "videojuegos",
+    "palabra": "The Last of Us",
+    "pista": "infectados"
+  },
+  {
+    "id": 541,
+    "categoria": "videojuegos",
+    "palabra": "Resident Evil",
+    "pista": "zombies"
+  },
+  {
+    "id": 542,
+    "categoria": "videojuegos",
+    "palabra": "Silent Hill",
+    "pista": "niebla"
+  },
+  {
+    "id": 543,
+    "categoria": "videojuegos",
+    "palabra": "Metal Gear Solid",
+    "pista": "sigilo"
+  },
+  {
+    "id": 544,
+    "categoria": "videojuegos",
+    "palabra": "Cyberpunk 2077",
+    "pista": "futuro"
+  },
+  {
+    "id": 545,
+    "categoria": "videojuegos",
+    "palabra": "Skyrim",
+    "pista": "dragones"
+  },
+  {
+    "id": 546,
+    "categoria": "videojuegos",
+    "palabra": "Hades",
+    "pista": "inframundo"
+  },
+  {
+    "id": 547,
+    "categoria": "videojuegos",
+    "palabra": "Hollow Knight",
+    "pista": "insectos"
+  },
+  {
+    "id": 548,
+    "categoria": "videojuegos",
+    "palabra": "Celeste",
+    "pista": "montaña"
+  },
+  {
+    "id": 549,
+    "categoria": "videojuegos",
+    "palabra": "Cuphead",
+    "pista": "caricatura"
+  },
+  {
+    "id": 550,
+    "categoria": "videojuegos",
+    "palabra": "Portal",
+    "pista": "portales"
+  },
+  {
+    "id": 551,
+    "categoria": "series",
+    "palabra": "Breaking Bad",
+    "pista": "química"
+  },
+  {
+    "id": 552,
+    "categoria": "series",
+    "palabra": "Better Call Saul",
+    "pista": "abogado"
+  },
+  {
+    "id": 553,
+    "categoria": "series",
+    "palabra": "Stranger Things",
+    "pista": "dimensión"
+  },
+  {
+    "id": 554,
+    "categoria": "series",
+    "palabra": "Friends",
+    "pista": "amigos"
+  },
+  {
+    "id": 555,
+    "categoria": "series",
+    "palabra": "The Office",
+    "pista": "oficina"
+  },
+  {
+    "id": 556,
+    "categoria": "series",
+    "palabra": "Game of Thrones",
+    "pista": "tronos"
+  },
+  {
+    "id": 557,
+    "categoria": "series",
+    "palabra": "House of the Dragon",
+    "pista": "dragones"
+  },
+  {
+    "id": 558,
+    "categoria": "series",
+    "palabra": "The Mandalorian",
+    "pista": "galaxia"
+  },
+  {
+    "id": 559,
+    "categoria": "series",
+    "palabra": "The Boys",
+    "pista": "héroes"
+  },
+  {
+    "id": 560,
+    "categoria": "series",
+    "palabra": "The Walking Dead",
+    "pista": "zombies"
+  },
+  {
+    "id": 561,
+    "categoria": "series",
+    "palabra": "Lost",
+    "pista": "isla"
+  },
+  {
+    "id": 562,
+    "categoria": "series",
+    "palabra": "Prison Break",
+    "pista": "cárcel"
+  },
+  {
+    "id": 563,
+    "categoria": "series",
+    "palabra": "La Casa de Papel",
+    "pista": "atraco"
+  },
+  {
+    "id": 564,
+    "categoria": "series",
+    "palabra": "Dark",
+    "pista": "tiempo"
+  },
+  {
+    "id": 565,
+    "categoria": "series",
+    "palabra": "Black Mirror",
+    "pista": "tecnología"
+  },
+  {
+    "id": 566,
+    "categoria": "series",
+    "palabra": "The Crown",
+    "pista": "realeza"
+  },
+  {
+    "id": 567,
+    "categoria": "series",
+    "palabra": "Sherlock",
+    "pista": "detective"
+  },
+  {
+    "id": 568,
+    "categoria": "series",
+    "palabra": "Doctor Who",
+    "pista": "tiempo"
+  },
+  {
+    "id": 569,
+    "categoria": "series",
+    "palabra": "How I Met Your Mother",
+    "pista": "historia"
+  },
+  {
+    "id": 570,
+    "categoria": "series",
+    "palabra": "Modern Family",
+    "pista": "familia"
+  },
+  {
+    "id": 571,
+    "categoria": "series",
+    "palabra": "Malcolm el de en medio",
+    "pista": "niño"
+  },
+  {
+    "id": 572,
+    "categoria": "series",
+    "palabra": "Los Simpson",
+    "pista": "amarillos"
+  },
+  {
+    "id": 573,
+    "categoria": "series",
+    "palabra": "Futurama",
+    "pista": "futuro"
+  },
+  {
+    "id": 574,
+    "categoria": "series",
+    "palabra": "Rick and Morty",
+    "pista": "portales"
+  },
+  {
+    "id": 575,
+    "categoria": "series",
+    "palabra": "BoJack Horseman",
+    "pista": "caballo"
+  },
+  {
+    "id": 576,
+    "categoria": "series",
+    "palabra": "Avatar: La Leyenda de Aang",
+    "pista": "elementos"
+  },
+  {
+    "id": 577,
+    "categoria": "series",
+    "palabra": "Cobra Kai",
+    "pista": "karate"
+  },
+  {
+    "id": 578,
+    "categoria": "series",
+    "palabra": "Wednesday",
+    "pista": "oscura"
+  },
+  {
+    "id": 579,
+    "categoria": "series",
+    "palabra": "Merlina",
+    "pista": "trenzas"
+  },
+  {
+    "id": 580,
+    "categoria": "series",
+    "palabra": "The Last of Us",
+    "pista": "hongos"
+  },
+  {
+    "id": 581,
+    "categoria": "series",
+    "palabra": "Peaky Blinders",
+    "pista": "gorras"
+  },
+  {
+    "id": 582,
+    "categoria": "series",
+    "palabra": "Narcos",
+    "pista": "cartel"
+  },
+  {
+    "id": 583,
+    "categoria": "series",
+    "palabra": "Vikingos",
+    "pista": "nórdicos"
+  },
+  {
+    "id": 584,
+    "categoria": "series",
+    "palabra": "Suits",
+    "pista": "trajes"
+  },
+  {
+    "id": 585,
+    "categoria": "series",
+    "palabra": "Dr. House",
+    "pista": "diagnóstico"
+  },
+  {
+    "id": 586,
+    "categoria": "series",
+    "palabra": "Grey's Anatomy",
+    "pista": "hospital"
+  },
+  {
+    "id": 587,
+    "categoria": "series",
+    "palabra": "The Big Bang Theory",
+    "pista": "científicos"
+  },
+  {
+    "id": 588,
+    "categoria": "series",
+    "palabra": "Young Sheldon",
+    "pista": "niño"
+  },
+  {
+    "id": 589,
+    "categoria": "series",
+    "palabra": "Dexter",
+    "pista": "sangre"
+  },
+  {
+    "id": 590,
+    "categoria": "series",
+    "palabra": "Mindhunter",
+    "pista": "perfiles"
+  },
+  {
+    "id": 591,
+    "categoria": "series",
+    "palabra": "Elite",
+    "pista": "escuela"
+  },
+  {
+    "id": 592,
+    "categoria": "series",
+    "palabra": "Club de Cuervos",
+    "pista": "fútbol"
+  },
+  {
+    "id": 593,
+    "categoria": "series",
+    "palabra": "Luis Miguel: La Serie",
+    "pista": "cantante"
+  },
+  {
+    "id": 594,
+    "categoria": "series",
+    "palabra": "Rebelde",
+    "pista": "colegio"
+  },
+  {
+    "id": 595,
+    "categoria": "series",
+    "palabra": "Betty la fea",
+    "pista": "oficina"
+  },
+  {
+    "id": 596,
+    "categoria": "series",
+    "palabra": "El Chavo del 8",
+    "pista": "vecindad"
+  },
+  {
+    "id": 597,
+    "categoria": "series",
+    "palabra": "La Familia P. Luche",
+    "pista": "peluche"
+  },
+  {
+    "id": 598,
+    "categoria": "series",
+    "palabra": "Los Soprano",
+    "pista": "mafia"
+  },
+  {
+    "id": 599,
+    "categoria": "series",
+    "palabra": "True Detective",
+    "pista": "caso"
+  },
+  {
+    "id": 600,
+    "categoria": "series",
+    "palabra": "Mr. Robot",
+    "pista": "hackers"
+  },
+  {
+    "id": 601,
+    "categoria": "musica",
+    "palabra": "guitarra",
+    "pista": "cuerdas"
+  },
+  {
+    "id": 602,
+    "categoria": "musica",
+    "palabra": "piano",
+    "pista": "teclas"
+  },
+  {
+    "id": 603,
+    "categoria": "musica",
+    "palabra": "batería",
+    "pista": "ritmo"
+  },
+  {
+    "id": 604,
+    "categoria": "musica",
+    "palabra": "violín",
+    "pista": "arco"
+  },
+  {
+    "id": 605,
+    "categoria": "musica",
+    "palabra": "saxofón",
+    "pista": "viento"
+  },
+  {
+    "id": 606,
+    "categoria": "musica",
+    "palabra": "trompeta",
+    "pista": "metal"
+  },
+  {
+    "id": 607,
+    "categoria": "musica",
+    "palabra": "flauta",
+    "pista": "aire"
+  },
+  {
+    "id": 608,
+    "categoria": "musica",
+    "palabra": "bajo",
+    "pista": "grave"
+  },
+  {
+    "id": 609,
+    "categoria": "musica",
+    "palabra": "acordeón",
+    "pista": "fuelle"
+  },
+  {
+    "id": 610,
+    "categoria": "musica",
+    "palabra": "ukulele",
+    "pista": "pequeño"
+  },
+  {
+    "id": 611,
+    "categoria": "musica",
+    "palabra": "reguetón",
+    "pista": "urbano"
+  },
+  {
+    "id": 612,
+    "categoria": "musica",
+    "palabra": "rock",
+    "pista": "guitarras"
+  },
+  {
+    "id": 613,
+    "categoria": "musica",
+    "palabra": "pop",
+    "pista": "radio"
+  },
+  {
+    "id": 614,
+    "categoria": "musica",
+    "palabra": "rap",
+    "pista": "rimas"
+  },
+  {
+    "id": 615,
+    "categoria": "musica",
+    "palabra": "hip hop",
+    "pista": "calle"
+  },
+  {
+    "id": 616,
+    "categoria": "musica",
+    "palabra": "jazz",
+    "pista": "improvisación"
+  },
+  {
+    "id": 617,
+    "categoria": "musica",
+    "palabra": "blues",
+    "pista": "sentimiento"
+  },
+  {
+    "id": 618,
+    "categoria": "musica",
+    "palabra": "salsa",
+    "pista": "baile"
+  },
+  {
+    "id": 619,
+    "categoria": "musica",
+    "palabra": "cumbia",
+    "pista": "ritmo"
+  },
+  {
+    "id": 620,
+    "categoria": "musica",
+    "palabra": "bachata",
+    "pista": "romance"
+  },
+  {
+    "id": 621,
+    "categoria": "musica",
+    "palabra": "mariachi",
+    "pista": "traje"
+  },
+  {
+    "id": 622,
+    "categoria": "musica",
+    "palabra": "banda",
+    "pista": "metales"
+  },
+  {
+    "id": 623,
+    "categoria": "musica",
+    "palabra": "corridos",
+    "pista": "relato"
+  },
+  {
+    "id": 624,
+    "categoria": "musica",
+    "palabra": "electrónica",
+    "pista": "beat"
+  },
+  {
+    "id": 625,
+    "categoria": "musica",
+    "palabra": "techno",
+    "pista": "club"
+  },
+  {
+    "id": 626,
+    "categoria": "musica",
+    "palabra": "house",
+    "pista": "fiesta"
+  },
+  {
+    "id": 627,
+    "categoria": "musica",
+    "palabra": "metal",
+    "pista": "pesado"
+  },
+  {
+    "id": 628,
+    "categoria": "musica",
+    "palabra": "punk",
+    "pista": "rebeldía"
+  },
+  {
+    "id": 629,
+    "categoria": "musica",
+    "palabra": "country",
+    "pista": "vaquero"
+  },
+  {
+    "id": 630,
+    "categoria": "musica",
+    "palabra": "ópera",
+    "pista": "voz"
+  },
+  {
+    "id": 631,
+    "categoria": "musica",
+    "palabra": "balada",
+    "pista": "romántica"
+  },
+  {
+    "id": 632,
+    "categoria": "musica",
+    "palabra": "ranchera",
+    "pista": "mexicana"
+  },
+  {
+    "id": 633,
+    "categoria": "musica",
+    "palabra": "bolero",
+    "pista": "nostalgia"
+  },
+  {
+    "id": 634,
+    "categoria": "musica",
+    "palabra": "k-pop",
+    "pista": "coreano"
+  },
+  {
+    "id": 635,
+    "categoria": "musica",
+    "palabra": "j-pop",
+    "pista": "japonés"
+  },
+  {
+    "id": 636,
+    "categoria": "musica",
+    "palabra": "karaoke",
+    "pista": "cantar"
+  },
+  {
+    "id": 637,
+    "categoria": "musica",
+    "palabra": "concierto",
+    "pista": "escenario"
+  },
+  {
+    "id": 638,
+    "categoria": "musica",
+    "palabra": "festival",
+    "pista": "multitud"
+  },
+  {
+    "id": 639,
+    "categoria": "musica",
+    "palabra": "micrófono",
+    "pista": "voz"
+  },
+  {
+    "id": 640,
+    "categoria": "musica",
+    "palabra": "auditorio",
+    "pista": "sonido"
+  },
+  {
+    "id": 641,
+    "categoria": "musica",
+    "palabra": "disco",
+    "pista": "baile"
+  },
+  {
+    "id": 642,
+    "categoria": "musica",
+    "palabra": "vinilo",
+    "pista": "retro"
+  },
+  {
+    "id": 643,
+    "categoria": "musica",
+    "palabra": "playlist",
+    "pista": "lista"
+  },
+  {
+    "id": 644,
+    "categoria": "musica",
+    "palabra": "álbum",
+    "pista": "canciones"
+  },
+  {
+    "id": 645,
+    "categoria": "musica",
+    "palabra": "single",
+    "pista": "estreno"
+  },
+  {
+    "id": 646,
+    "categoria": "musica",
+    "palabra": "coro",
+    "pista": "voces"
+  },
+  {
+    "id": 647,
+    "categoria": "musica",
+    "palabra": "orquesta",
+    "pista": "músicos"
+  },
+  {
+    "id": 648,
+    "categoria": "musica",
+    "palabra": "director de orquesta",
+    "pista": "batuta"
+  },
+  {
+    "id": 649,
+    "categoria": "musica",
+    "palabra": "DJ",
+    "pista": "mezcla"
+  },
+  {
+    "id": 650,
+    "categoria": "musica",
+    "palabra": "estudio de grabación",
+    "pista": "producción"
+  },
+  {
+    "id": 651,
+    "categoria": "tecnologia",
+    "palabra": "internet",
+    "pista": "red"
+  },
+  {
+    "id": 652,
+    "categoria": "tecnologia",
+    "palabra": "wifi",
+    "pista": "señal"
+  },
+  {
+    "id": 653,
+    "categoria": "tecnologia",
+    "palabra": "bluetooth",
+    "pista": "conexión"
+  },
+  {
+    "id": 654,
+    "categoria": "tecnologia",
+    "palabra": "computadora",
+    "pista": "pantalla"
+  },
+  {
+    "id": 655,
+    "categoria": "tecnologia",
+    "palabra": "laptop",
+    "pista": "portátil"
+  },
+  {
+    "id": 656,
+    "categoria": "tecnologia",
+    "palabra": "tablet",
+    "pista": "táctil"
+  },
+  {
+    "id": 657,
+    "categoria": "tecnologia",
+    "palabra": "smartwatch",
+    "pista": "muñeca"
+  },
+  {
+    "id": 658,
+    "categoria": "tecnologia",
+    "palabra": "impresora",
+    "pista": "papel"
+  },
+  {
+    "id": 659,
+    "categoria": "tecnologia",
+    "palabra": "router",
+    "pista": "señal"
+  },
+  {
+    "id": 660,
+    "categoria": "tecnologia",
+    "palabra": "servidor",
+    "pista": "datos"
+  },
+  {
+    "id": 661,
+    "categoria": "tecnologia",
+    "palabra": "nube",
+    "pista": "almacenamiento"
+  },
+  {
+    "id": 662,
+    "categoria": "tecnologia",
+    "palabra": "base de datos",
+    "pista": "registros"
+  },
+  {
+    "id": 663,
+    "categoria": "tecnologia",
+    "palabra": "API",
+    "pista": "conexión"
+  },
+  {
+    "id": 664,
+    "categoria": "tecnologia",
+    "palabra": "app móvil",
+    "pista": "teléfono"
+  },
+  {
+    "id": 665,
+    "categoria": "tecnologia",
+    "palabra": "página web",
+    "pista": "navegador"
+  },
+  {
+    "id": 666,
+    "categoria": "tecnologia",
+    "palabra": "inteligencia artificial",
+    "pista": "modelo"
+  },
+  {
+    "id": 667,
+    "categoria": "tecnologia",
+    "palabra": "robot",
+    "pista": "máquina"
+  },
+  {
+    "id": 668,
+    "categoria": "tecnologia",
+    "palabra": "dron",
+    "pista": "vuelo"
+  },
+  {
+    "id": 669,
+    "categoria": "tecnologia",
+    "palabra": "realidad virtual",
+    "pista": "visor"
+  },
+  {
+    "id": 670,
+    "categoria": "tecnologia",
+    "palabra": "realidad aumentada",
+    "pista": "cámara"
+  },
+  {
+    "id": 671,
+    "categoria": "tecnologia",
+    "palabra": "código QR",
+    "pista": "escaneo"
+  },
+  {
+    "id": 672,
+    "categoria": "tecnologia",
+    "palabra": "contraseña",
+    "pista": "seguridad"
+  },
+  {
+    "id": 673,
+    "categoria": "tecnologia",
+    "palabra": "firewall",
+    "pista": "protección"
+  },
+  {
+    "id": 674,
+    "categoria": "tecnologia",
+    "palabra": "antivirus",
+    "pista": "virus"
+  },
+  {
+    "id": 675,
+    "categoria": "tecnologia",
+    "palabra": "hacker",
+    "pista": "intruso"
+  },
+  {
+    "id": 676,
+    "categoria": "tecnologia",
+    "palabra": "criptomoneda",
+    "pista": "digital"
+  },
+  {
+    "id": 677,
+    "categoria": "tecnologia",
+    "palabra": "blockchain",
+    "pista": "cadena"
+  },
+  {
+    "id": 678,
+    "categoria": "tecnologia",
+    "palabra": "USB",
+    "pista": "puerto"
+  },
+  {
+    "id": 679,
+    "categoria": "tecnologia",
+    "palabra": "disco duro",
+    "pista": "almacenamiento"
+  },
+  {
+    "id": 680,
+    "categoria": "tecnologia",
+    "palabra": "memoria RAM",
+    "pista": "velocidad"
+  },
+  {
+    "id": 681,
+    "categoria": "tecnologia",
+    "palabra": "procesador",
+    "pista": "cerebro"
+  },
+  {
+    "id": 682,
+    "categoria": "tecnologia",
+    "palabra": "tarjeta gráfica",
+    "pista": "imagen"
+  },
+  {
+    "id": 683,
+    "categoria": "tecnologia",
+    "palabra": "monitor 4K",
+    "pista": "resolución"
+  },
+  {
+    "id": 684,
+    "categoria": "tecnologia",
+    "palabra": "teclado mecánico",
+    "pista": "clic"
+  },
+  {
+    "id": 685,
+    "categoria": "tecnologia",
+    "palabra": "mouse gamer",
+    "pista": "precisión"
+  },
+  {
+    "id": 686,
+    "categoria": "tecnologia",
+    "palabra": "cable HDMI",
+    "pista": "video"
+  },
+  {
+    "id": 687,
+    "categoria": "tecnologia",
+    "palabra": "cámara web",
+    "pista": "videollamada"
+  },
+  {
+    "id": 688,
+    "categoria": "tecnologia",
+    "palabra": "micrófono USB",
+    "pista": "audio"
+  },
+  {
+    "id": 689,
+    "categoria": "tecnologia",
+    "palabra": "streaming",
+    "pista": "transmisión"
+  },
+  {
+    "id": 690,
+    "categoria": "tecnologia",
+    "palabra": "podcast",
+    "pista": "audio"
+  },
+  {
+    "id": 691,
+    "categoria": "tecnologia",
+    "palabra": "GPS",
+    "pista": "ubicación"
+  },
+  {
+    "id": 692,
+    "categoria": "tecnologia",
+    "palabra": "satélite",
+    "pista": "órbita"
+  },
+  {
+    "id": 693,
+    "categoria": "tecnologia",
+    "palabra": "sensor",
+    "pista": "medición"
+  },
+  {
+    "id": 694,
+    "categoria": "tecnologia",
+    "palabra": "semáforo inteligente",
+    "pista": "tráfico"
+  },
+  {
+    "id": 695,
+    "categoria": "tecnologia",
+    "palabra": "casa inteligente",
+    "pista": "automatización"
+  },
+  {
+    "id": 696,
+    "categoria": "tecnologia",
+    "palabra": "asistente virtual",
+    "pista": "voz"
+  },
+  {
+    "id": 697,
+    "categoria": "tecnologia",
+    "palabra": "chatbot",
+    "pista": "mensajes"
+  },
+  {
+    "id": 698,
+    "categoria": "tecnologia",
+    "palabra": "código fuente",
+    "pista": "programa"
+  },
+  {
+    "id": 699,
+    "categoria": "tecnologia",
+    "palabra": "software",
+    "pista": "aplicación"
+  },
+  {
+    "id": 700,
+    "categoria": "tecnologia",
+    "palabra": "hardware",
+    "pista": "equipo"
+  },
+  {
+    "id": 701,
+    "categoria": "naturaleza",
+    "palabra": "sol",
+    "pista": "estrella"
+  },
+  {
+    "id": 702,
+    "categoria": "naturaleza",
+    "palabra": "luna",
+    "pista": "noche"
+  },
+  {
+    "id": 703,
+    "categoria": "naturaleza",
+    "palabra": "estrella",
+    "pista": "cielo"
+  },
+  {
+    "id": 704,
+    "categoria": "naturaleza",
+    "palabra": "nube",
+    "pista": "blanca"
+  },
+  {
+    "id": 705,
+    "categoria": "naturaleza",
+    "palabra": "lluvia",
+    "pista": "agua"
+  },
+  {
+    "id": 706,
+    "categoria": "naturaleza",
+    "palabra": "tormenta",
+    "pista": "truenos"
+  },
+  {
+    "id": 707,
+    "categoria": "naturaleza",
+    "palabra": "rayo",
+    "pista": "luz"
+  },
+  {
+    "id": 708,
+    "categoria": "naturaleza",
+    "palabra": "arcoíris",
+    "pista": "colores"
+  },
+  {
+    "id": 709,
+    "categoria": "naturaleza",
+    "palabra": "viento",
+    "pista": "aire"
+  },
+  {
+    "id": 710,
+    "categoria": "naturaleza",
+    "palabra": "nieve",
+    "pista": "frío"
+  },
+  {
+    "id": 711,
+    "categoria": "naturaleza",
+    "palabra": "granizo",
+    "pista": "hielo"
+  },
+  {
+    "id": 712,
+    "categoria": "naturaleza",
+    "palabra": "niebla",
+    "pista": "baja"
+  },
+  {
+    "id": 713,
+    "categoria": "naturaleza",
+    "palabra": "río",
+    "pista": "corriente"
+  },
+  {
+    "id": 714,
+    "categoria": "naturaleza",
+    "palabra": "lago",
+    "pista": "agua"
+  },
+  {
+    "id": 715,
+    "categoria": "naturaleza",
+    "palabra": "océano",
+    "pista": "inmenso"
+  },
+  {
+    "id": 716,
+    "categoria": "naturaleza",
+    "palabra": "cascada",
+    "pista": "caída"
+  },
+  {
+    "id": 717,
+    "categoria": "naturaleza",
+    "palabra": "selva",
+    "pista": "verde"
+  },
+  {
+    "id": 718,
+    "categoria": "naturaleza",
+    "palabra": "bosque",
+    "pista": "árboles"
+  },
+  {
+    "id": 719,
+    "categoria": "naturaleza",
+    "palabra": "desierto",
+    "pista": "seco"
+  },
+  {
+    "id": 720,
+    "categoria": "naturaleza",
+    "palabra": "pradera",
+    "pista": "pasto"
+  },
+  {
+    "id": 721,
+    "categoria": "naturaleza",
+    "palabra": "montaña",
+    "pista": "altura"
+  },
+  {
+    "id": 722,
+    "categoria": "naturaleza",
+    "palabra": "valle",
+    "pista": "bajo"
+  },
+  {
+    "id": 723,
+    "categoria": "naturaleza",
+    "palabra": "cueva",
+    "pista": "oscura"
+  },
+  {
+    "id": 724,
+    "categoria": "naturaleza",
+    "palabra": "volcán",
+    "pista": "lava"
+  },
+  {
+    "id": 725,
+    "categoria": "naturaleza",
+    "palabra": "terremoto",
+    "pista": "suelo"
+  },
+  {
+    "id": 726,
+    "categoria": "naturaleza",
+    "palabra": "huracán",
+    "pista": "viento"
+  },
+  {
+    "id": 727,
+    "categoria": "naturaleza",
+    "palabra": "tornado",
+    "pista": "remolino"
+  },
+  {
+    "id": 728,
+    "categoria": "naturaleza",
+    "palabra": "glaciar",
+    "pista": "hielo"
+  },
+  {
+    "id": 729,
+    "categoria": "naturaleza",
+    "palabra": "isla",
+    "pista": "rodeada"
+  },
+  {
+    "id": 730,
+    "categoria": "naturaleza",
+    "palabra": "península",
+    "pista": "tierra"
+  },
+  {
+    "id": 731,
+    "categoria": "naturaleza",
+    "palabra": "flor",
+    "pista": "pétalos"
+  },
+  {
+    "id": 732,
+    "categoria": "naturaleza",
+    "palabra": "árbol",
+    "pista": "tronco"
+  },
+  {
+    "id": 733,
+    "categoria": "naturaleza",
+    "palabra": "hoja",
+    "pista": "verde"
+  },
+  {
+    "id": 734,
+    "categoria": "naturaleza",
+    "palabra": "raíz",
+    "pista": "suelo"
+  },
+  {
+    "id": 735,
+    "categoria": "naturaleza",
+    "palabra": "semilla",
+    "pista": "inicio"
+  },
+  {
+    "id": 736,
+    "categoria": "naturaleza",
+    "palabra": "cactus",
+    "pista": "espinas"
+  },
+  {
+    "id": 737,
+    "categoria": "naturaleza",
+    "palabra": "palmera",
+    "pista": "playa"
+  },
+  {
+    "id": 738,
+    "categoria": "naturaleza",
+    "palabra": "hongo",
+    "pista": "sombrero"
+  },
+  {
+    "id": 739,
+    "categoria": "naturaleza",
+    "palabra": "musgo",
+    "pista": "humedad"
+  },
+  {
+    "id": 740,
+    "categoria": "naturaleza",
+    "palabra": "bambú",
+    "pista": "tallo"
+  },
+  {
+    "id": 741,
+    "categoria": "naturaleza",
+    "palabra": "coral",
+    "pista": "marino"
+  },
+  {
+    "id": 742,
+    "categoria": "naturaleza",
+    "palabra": "arena",
+    "pista": "playa"
+  },
+  {
+    "id": 743,
+    "categoria": "naturaleza",
+    "palabra": "piedra",
+    "pista": "dura"
+  },
+  {
+    "id": 744,
+    "categoria": "naturaleza",
+    "palabra": "cristal",
+    "pista": "brillante"
+  },
+  {
+    "id": 745,
+    "categoria": "naturaleza",
+    "palabra": "mina",
+    "pista": "subsuelo"
+  },
+  {
+    "id": 746,
+    "categoria": "naturaleza",
+    "palabra": "fuego",
+    "pista": "calor"
+  },
+  {
+    "id": 747,
+    "categoria": "naturaleza",
+    "palabra": "ceniza",
+    "pista": "gris"
+  },
+  {
+    "id": 748,
+    "categoria": "naturaleza",
+    "palabra": "barro",
+    "pista": "lodo"
+  },
+  {
+    "id": 749,
+    "categoria": "naturaleza",
+    "palabra": "brisa",
+    "pista": "suave"
+  },
+  {
+    "id": 750,
+    "categoria": "naturaleza",
+    "palabra": "marea",
+    "pista": "sube"
+  },
+  {
+    "id": 751,
+    "categoria": "vehiculos",
+    "palabra": "automóvil",
+    "pista": "ruedas"
+  },
+  {
+    "id": 752,
+    "categoria": "vehiculos",
+    "palabra": "motocicleta",
+    "pista": "motor"
+  },
+  {
+    "id": 753,
+    "categoria": "vehiculos",
+    "palabra": "bicicleta",
+    "pista": "pedales"
+  },
+  {
+    "id": 754,
+    "categoria": "vehiculos",
+    "palabra": "camión",
+    "pista": "carga"
+  },
+  {
+    "id": 755,
+    "categoria": "vehiculos",
+    "palabra": "autobús",
+    "pista": "pasajeros"
+  },
+  {
+    "id": 756,
+    "categoria": "vehiculos",
+    "palabra": "taxi",
+    "pista": "ciudad"
+  },
+  {
+    "id": 757,
+    "categoria": "vehiculos",
+    "palabra": "tren",
+    "pista": "rieles"
+  },
+  {
+    "id": 758,
+    "categoria": "vehiculos",
+    "palabra": "metro",
+    "pista": "subterráneo"
+  },
+  {
+    "id": 759,
+    "categoria": "vehiculos",
+    "palabra": "tranvía",
+    "pista": "urbano"
+  },
+  {
+    "id": 760,
+    "categoria": "vehiculos",
+    "palabra": "avión",
+    "pista": "vuelo"
+  },
+  {
+    "id": 761,
+    "categoria": "vehiculos",
+    "palabra": "helicóptero",
+    "pista": "hélice"
+  },
+  {
+    "id": 762,
+    "categoria": "vehiculos",
+    "palabra": "barco",
+    "pista": "agua"
+  },
+  {
+    "id": 763,
+    "categoria": "vehiculos",
+    "palabra": "yate",
+    "pista": "lujo"
+  },
+  {
+    "id": 764,
+    "categoria": "vehiculos",
+    "palabra": "lancha",
+    "pista": "mar"
+  },
+  {
+    "id": 765,
+    "categoria": "vehiculos",
+    "palabra": "submarino",
+    "pista": "profundo"
+  },
+  {
+    "id": 766,
+    "categoria": "vehiculos",
+    "palabra": "patineta",
+    "pista": "tabla"
+  },
+  {
+    "id": 767,
+    "categoria": "vehiculos",
+    "palabra": "scooter",
+    "pista": "manubrio"
+  },
+  {
+    "id": 768,
+    "categoria": "vehiculos",
+    "palabra": "ambulancia",
+    "pista": "emergencia"
+  },
+  {
+    "id": 769,
+    "categoria": "vehiculos",
+    "palabra": "patrulla",
+    "pista": "sirena"
+  },
+  {
+    "id": 770,
+    "categoria": "vehiculos",
+    "palabra": "camión de bomberos",
+    "pista": "fuego"
+  },
+  {
+    "id": 771,
+    "categoria": "vehiculos",
+    "palabra": "tractocamión",
+    "pista": "remolque"
+  },
+  {
+    "id": 772,
+    "categoria": "vehiculos",
+    "palabra": "tráiler",
+    "pista": "carretera"
+  },
+  {
+    "id": 773,
+    "categoria": "vehiculos",
+    "palabra": "tractor",
+    "pista": "campo"
+  },
+  {
+    "id": 774,
+    "categoria": "vehiculos",
+    "palabra": "montacargas",
+    "pista": "almacén"
+  },
+  {
+    "id": 775,
+    "categoria": "vehiculos",
+    "palabra": "grúa",
+    "pista": "levantar"
+  },
+  {
+    "id": 776,
+    "categoria": "vehiculos",
+    "palabra": "excavadora",
+    "pista": "tierra"
+  },
+  {
+    "id": 777,
+    "categoria": "vehiculos",
+    "palabra": "bulldozer",
+    "pista": "obra"
+  },
+  {
+    "id": 778,
+    "categoria": "vehiculos",
+    "palabra": "carrito de golf",
+    "pista": "campo"
+  },
+  {
+    "id": 779,
+    "categoria": "vehiculos",
+    "palabra": "limusina",
+    "pista": "largo"
+  },
+  {
+    "id": 780,
+    "categoria": "vehiculos",
+    "palabra": "carroza",
+    "pista": "caballos"
+  },
+  {
+    "id": 781,
+    "categoria": "vehiculos",
+    "palabra": "cohete",
+    "pista": "espacio"
+  },
+  {
+    "id": 782,
+    "categoria": "vehiculos",
+    "palabra": "satélite",
+    "pista": "órbita"
+  },
+  {
+    "id": 783,
+    "categoria": "vehiculos",
+    "palabra": "globo aerostático",
+    "pista": "aire"
+  },
+  {
+    "id": 784,
+    "categoria": "vehiculos",
+    "palabra": "dirigible",
+    "pista": "flotante"
+  },
+  {
+    "id": 785,
+    "categoria": "vehiculos",
+    "palabra": "jet ski",
+    "pista": "agua"
+  },
+  {
+    "id": 786,
+    "categoria": "vehiculos",
+    "palabra": "cuatrimoto",
+    "pista": "terreno"
+  },
+  {
+    "id": 787,
+    "categoria": "vehiculos",
+    "palabra": "caravana",
+    "pista": "viaje"
+  },
+  {
+    "id": 788,
+    "categoria": "vehiculos",
+    "palabra": "camper",
+    "pista": "casa"
+  },
+  {
+    "id": 789,
+    "categoria": "vehiculos",
+    "palabra": "motoneta",
+    "pista": "ciudad"
+  },
+  {
+    "id": 790,
+    "categoria": "vehiculos",
+    "palabra": "segway",
+    "pista": "equilibrio"
+  },
+  {
+    "id": 791,
+    "categoria": "vehiculos",
+    "palabra": "patines",
+    "pista": "ruedas"
+  },
+  {
+    "id": 792,
+    "categoria": "vehiculos",
+    "palabra": "trineo",
+    "pista": "nieve"
+  },
+  {
+    "id": 793,
+    "categoria": "vehiculos",
+    "palabra": "kayak",
+    "pista": "remo"
+  },
+  {
+    "id": 794,
+    "categoria": "vehiculos",
+    "palabra": "canoa",
+    "pista": "río"
+  },
+  {
+    "id": 795,
+    "categoria": "vehiculos",
+    "palabra": "velero",
+    "pista": "viento"
+  },
+  {
+    "id": 796,
+    "categoria": "vehiculos",
+    "palabra": "bote inflable",
+    "pista": "flotar"
+  },
+  {
+    "id": 797,
+    "categoria": "vehiculos",
+    "palabra": "drift car",
+    "pista": "derrape"
+  },
+  {
+    "id": 798,
+    "categoria": "vehiculos",
+    "palabra": "go kart",
+    "pista": "pista"
+  },
+  {
+    "id": 799,
+    "categoria": "vehiculos",
+    "palabra": "monster truck",
+    "pista": "gigante"
+  },
+  {
+    "id": 800,
+    "categoria": "vehiculos",
+    "palabra": "formula 1",
+    "pista": "rápido"
+  },
+  {
+    "id": 801,
+    "categoria": "marcas",
+    "palabra": "Apple",
+    "pista": "manzana"
+  },
+  {
+    "id": 802,
+    "categoria": "marcas",
+    "palabra": "Samsung",
+    "pista": "pantallas"
+  },
+  {
+    "id": 803,
+    "categoria": "marcas",
+    "palabra": "Google",
+    "pista": "buscador"
+  },
+  {
+    "id": 804,
+    "categoria": "marcas",
+    "palabra": "Microsoft",
+    "pista": "software"
+  },
+  {
+    "id": 805,
+    "categoria": "marcas",
+    "palabra": "Amazon",
+    "pista": "compras"
+  },
+  {
+    "id": 806,
+    "categoria": "marcas",
+    "palabra": "Netflix",
+    "pista": "series"
+  },
+  {
+    "id": 807,
+    "categoria": "marcas",
+    "palabra": "Disney",
+    "pista": "ratón"
+  },
+  {
+    "id": 808,
+    "categoria": "marcas",
+    "palabra": "Nike",
+    "pista": "deporte"
+  },
+  {
+    "id": 809,
+    "categoria": "marcas",
+    "palabra": "Adidas",
+    "pista": "rayas"
+  },
+  {
+    "id": 810,
+    "categoria": "marcas",
+    "palabra": "Puma",
+    "pista": "felino"
+  },
+  {
+    "id": 811,
+    "categoria": "marcas",
+    "palabra": "Coca-Cola",
+    "pista": "refresco"
+  },
+  {
+    "id": 812,
+    "categoria": "marcas",
+    "palabra": "Pepsi",
+    "pista": "refresco"
+  },
+  {
+    "id": 813,
+    "categoria": "marcas",
+    "palabra": "McDonald's",
+    "pista": "hamburguesa"
+  },
+  {
+    "id": 814,
+    "categoria": "marcas",
+    "palabra": "Burger King",
+    "pista": "corona"
+  },
+  {
+    "id": 815,
+    "categoria": "marcas",
+    "palabra": "Starbucks",
+    "pista": "café"
+  },
+  {
+    "id": 816,
+    "categoria": "marcas",
+    "palabra": "KFC",
+    "pista": "pollo"
+  },
+  {
+    "id": 817,
+    "categoria": "marcas",
+    "palabra": "Subway",
+    "pista": "sandwich"
+  },
+  {
+    "id": 818,
+    "categoria": "marcas",
+    "palabra": "Domino's",
+    "pista": "pizza"
+  },
+  {
+    "id": 819,
+    "categoria": "marcas",
+    "palabra": "Toyota",
+    "pista": "autos"
+  },
+  {
+    "id": 820,
+    "categoria": "marcas",
+    "palabra": "Tesla",
+    "pista": "eléctrico"
+  },
+  {
+    "id": 821,
+    "categoria": "marcas",
+    "palabra": "Ford",
+    "pista": "autos"
+  },
+  {
+    "id": 822,
+    "categoria": "marcas",
+    "palabra": "Chevrolet",
+    "pista": "autos"
+  },
+  {
+    "id": 823,
+    "categoria": "marcas",
+    "palabra": "BMW",
+    "pista": "lujo"
+  },
+  {
+    "id": 824,
+    "categoria": "marcas",
+    "palabra": "Mercedes-Benz",
+    "pista": "lujo"
+  },
+  {
+    "id": 825,
+    "categoria": "marcas",
+    "palabra": "Audi",
+    "pista": "aros"
+  },
+  {
+    "id": 826,
+    "categoria": "marcas",
+    "palabra": "Volkswagen",
+    "pista": "auto"
+  },
+  {
+    "id": 827,
+    "categoria": "marcas",
+    "palabra": "Nintendo",
+    "pista": "juegos"
+  },
+  {
+    "id": 828,
+    "categoria": "marcas",
+    "palabra": "PlayStation",
+    "pista": "consola"
+  },
+  {
+    "id": 829,
+    "categoria": "marcas",
+    "palabra": "Xbox",
+    "pista": "consola"
+  },
+  {
+    "id": 830,
+    "categoria": "marcas",
+    "palabra": "Lego",
+    "pista": "bloques"
+  },
+  {
+    "id": 831,
+    "categoria": "marcas",
+    "palabra": "Barbie",
+    "pista": "muñeca"
+  },
+  {
+    "id": 832,
+    "categoria": "marcas",
+    "palabra": "Hot Wheels",
+    "pista": "carritos"
+  },
+  {
+    "id": 833,
+    "categoria": "marcas",
+    "palabra": "Zara",
+    "pista": "ropa"
+  },
+  {
+    "id": 834,
+    "categoria": "marcas",
+    "palabra": "H&M",
+    "pista": "moda"
+  },
+  {
+    "id": 835,
+    "categoria": "marcas",
+    "palabra": "Gucci",
+    "pista": "lujo"
+  },
+  {
+    "id": 836,
+    "categoria": "marcas",
+    "palabra": "Louis Vuitton",
+    "pista": "bolsa"
+  },
+  {
+    "id": 837,
+    "categoria": "marcas",
+    "palabra": "Rolex",
+    "pista": "reloj"
+  },
+  {
+    "id": 838,
+    "categoria": "marcas",
+    "palabra": "Casio",
+    "pista": "reloj"
+  },
+  {
+    "id": 839,
+    "categoria": "marcas",
+    "palabra": "Canon",
+    "pista": "cámara"
+  },
+  {
+    "id": 840,
+    "categoria": "marcas",
+    "palabra": "Sony",
+    "pista": "electrónica"
+  },
+  {
+    "id": 841,
+    "categoria": "marcas",
+    "palabra": "LG",
+    "pista": "pantallas"
+  },
+  {
+    "id": 842,
+    "categoria": "marcas",
+    "palabra": "Huawei",
+    "pista": "teléfonos"
+  },
+  {
+    "id": 843,
+    "categoria": "marcas",
+    "palabra": "Xiaomi",
+    "pista": "tecnología"
+  },
+  {
+    "id": 844,
+    "categoria": "marcas",
+    "palabra": "Spotify",
+    "pista": "música"
+  },
+  {
+    "id": 845,
+    "categoria": "marcas",
+    "palabra": "TikTok",
+    "pista": "videos"
+  },
+  {
+    "id": 846,
+    "categoria": "marcas",
+    "palabra": "Instagram",
+    "pista": "fotos"
+  },
+  {
+    "id": 847,
+    "categoria": "marcas",
+    "palabra": "Facebook",
+    "pista": "red"
+  },
+  {
+    "id": 848,
+    "categoria": "marcas",
+    "palabra": "WhatsApp",
+    "pista": "mensajes"
+  },
+  {
+    "id": 849,
+    "categoria": "marcas",
+    "palabra": "Uber",
+    "pista": "viaje"
+  },
+  {
+    "id": 850,
+    "categoria": "marcas",
+    "palabra": "Airbnb",
+    "pista": "hospedaje"
+  },
+  {
+    "id": 851,
+    "categoria": "historia",
+    "palabra": "Cleopatra",
+    "pista": "Egipto"
+  },
+  {
+    "id": 852,
+    "categoria": "historia",
+    "palabra": "Julio César",
+    "pista": "Roma"
+  },
+  {
+    "id": 853,
+    "categoria": "historia",
+    "palabra": "Napoleón Bonaparte",
+    "pista": "emperador"
+  },
+  {
+    "id": 854,
+    "categoria": "historia",
+    "palabra": "Cristóbal Colón",
+    "pista": "viaje"
+  },
+  {
+    "id": 855,
+    "categoria": "historia",
+    "palabra": "Miguel Hidalgo",
+    "pista": "independencia"
+  },
+  {
+    "id": 856,
+    "categoria": "historia",
+    "palabra": "Benito Juárez",
+    "pista": "presidente"
+  },
+  {
+    "id": 857,
+    "categoria": "historia",
+    "palabra": "Porfirio Díaz",
+    "pista": "dictadura"
+  },
+  {
+    "id": 858,
+    "categoria": "historia",
+    "palabra": "Emiliano Zapata",
+    "pista": "revolución"
+  },
+  {
+    "id": 859,
+    "categoria": "historia",
+    "palabra": "Pancho Villa",
+    "pista": "revolución"
+  },
+  {
+    "id": 860,
+    "categoria": "historia",
+    "palabra": "Frida Kahlo",
+    "pista": "pintora"
+  },
+  {
+    "id": 861,
+    "categoria": "historia",
+    "palabra": "Marie Curie",
+    "pista": "radioactividad"
+  },
+  {
+    "id": 862,
+    "categoria": "historia",
+    "palabra": "Isaac Newton",
+    "pista": "gravedad"
+  },
+  {
+    "id": 863,
+    "categoria": "historia",
+    "palabra": "Galileo Galilei",
+    "pista": "telescopio"
+  },
+  {
+    "id": 864,
+    "categoria": "historia",
+    "palabra": "Charles Darwin",
+    "pista": "evolución"
+  },
+  {
+    "id": 865,
+    "categoria": "historia",
+    "palabra": "Nikola Tesla",
+    "pista": "electricidad"
+  },
+  {
+    "id": 866,
+    "categoria": "historia",
+    "palabra": "Leonardo da Vinci",
+    "pista": "renacimiento"
+  },
+  {
+    "id": 867,
+    "categoria": "historia",
+    "palabra": "Vincent van Gogh",
+    "pista": "girasoles"
+  },
+  {
+    "id": 868,
+    "categoria": "historia",
+    "palabra": "Pablo Picasso",
+    "pista": "cubismo"
+  },
+  {
+    "id": 869,
+    "categoria": "historia",
+    "palabra": "Mozart",
+    "pista": "música"
+  },
+  {
+    "id": 870,
+    "categoria": "historia",
+    "palabra": "Beethoven",
+    "pista": "sordo"
+  },
+  {
+    "id": 871,
+    "categoria": "historia",
+    "palabra": "Revolución Mexicana",
+    "pista": "movimiento"
+  },
+  {
+    "id": 872,
+    "categoria": "historia",
+    "palabra": "Independencia de México",
+    "pista": "grito"
+  },
+  {
+    "id": 873,
+    "categoria": "historia",
+    "palabra": "Revolución Francesa",
+    "pista": "guillotina"
+  },
+  {
+    "id": 874,
+    "categoria": "historia",
+    "palabra": "Imperio Romano",
+    "pista": "legiones"
+  },
+  {
+    "id": 875,
+    "categoria": "historia",
+    "palabra": "Antiguo Egipto",
+    "pista": "faraones"
+  },
+  {
+    "id": 876,
+    "categoria": "historia",
+    "palabra": "Edad Media",
+    "pista": "castillos"
+  },
+  {
+    "id": 877,
+    "categoria": "historia",
+    "palabra": "Renacimiento",
+    "pista": "arte"
+  },
+  {
+    "id": 878,
+    "categoria": "historia",
+    "palabra": "Guerra Fría",
+    "pista": "bloques"
+  },
+  {
+    "id": 879,
+    "categoria": "historia",
+    "palabra": "Primera Guerra Mundial",
+    "pista": "trincheras"
+  },
+  {
+    "id": 880,
+    "categoria": "historia",
+    "palabra": "Segunda Guerra Mundial",
+    "pista": "conflicto"
+  },
+  {
+    "id": 881,
+    "categoria": "historia",
+    "palabra": "Muro de Berlín",
+    "pista": "división"
+  },
+  {
+    "id": 882,
+    "categoria": "historia",
+    "palabra": "Apolo 11",
+    "pista": "luna"
+  },
+  {
+    "id": 883,
+    "categoria": "historia",
+    "palabra": "Titanic histórico",
+    "pista": "barco"
+  },
+  {
+    "id": 884,
+    "categoria": "historia",
+    "palabra": "Ruta de la Seda",
+    "pista": "comercio"
+  },
+  {
+    "id": 885,
+    "categoria": "historia",
+    "palabra": "Peste Negra",
+    "pista": "enfermedad"
+  },
+  {
+    "id": 886,
+    "categoria": "historia",
+    "palabra": "Mayas",
+    "pista": "calendario"
+  },
+  {
+    "id": 887,
+    "categoria": "historia",
+    "palabra": "Aztecas",
+    "pista": "tenochtitlan"
+  },
+  {
+    "id": 888,
+    "categoria": "historia",
+    "palabra": "Incas",
+    "pista": "andes"
+  },
+  {
+    "id": 889,
+    "categoria": "historia",
+    "palabra": "Vikingos",
+    "pista": "barcos"
+  },
+  {
+    "id": 890,
+    "categoria": "historia",
+    "palabra": "Samuráis",
+    "pista": "katana"
+  },
+  {
+    "id": 891,
+    "categoria": "historia",
+    "palabra": "Caballeros templarios",
+    "pista": "cruz"
+  },
+  {
+    "id": 892,
+    "categoria": "historia",
+    "palabra": "Esparta",
+    "pista": "guerreros"
+  },
+  {
+    "id": 893,
+    "categoria": "historia",
+    "palabra": "Atenas",
+    "pista": "filosofía"
+  },
+  {
+    "id": 894,
+    "categoria": "historia",
+    "palabra": "Troya",
+    "pista": "caballo"
+  },
+  {
+    "id": 895,
+    "categoria": "historia",
+    "palabra": "Gengis Kan",
+    "pista": "mongol"
+  },
+  {
+    "id": 896,
+    "categoria": "historia",
+    "palabra": "Marco Polo",
+    "pista": "viajero"
+  },
+  {
+    "id": 897,
+    "categoria": "historia",
+    "palabra": "Martin Luther King Jr.",
+    "pista": "derechos"
+  },
+  {
+    "id": 898,
+    "categoria": "historia",
+    "palabra": "Nelson Mandela",
+    "pista": "libertad"
+  },
+  {
+    "id": 899,
+    "categoria": "historia",
+    "palabra": "Ana Frank",
+    "pista": "diario"
+  },
+  {
+    "id": 900,
+    "categoria": "historia",
+    "palabra": "Winston Churchill",
+    "pista": "guerra"
+  },
+  {
+    "id": 901,
+    "categoria": "fantasia",
+    "palabra": "dragón",
+    "pista": "fuego"
+  },
+  {
+    "id": 902,
+    "categoria": "fantasia",
+    "palabra": "unicornio",
+    "pista": "cuerno"
+  },
+  {
+    "id": 903,
+    "categoria": "fantasia",
+    "palabra": "hada",
+    "pista": "alas"
+  },
+  {
+    "id": 904,
+    "categoria": "fantasia",
+    "palabra": "duende",
+    "pista": "pequeño"
+  },
+  {
+    "id": 905,
+    "categoria": "fantasia",
+    "palabra": "elfo",
+    "pista": "bosque"
+  },
+  {
+    "id": 906,
+    "categoria": "fantasia",
+    "palabra": "orco",
+    "pista": "bruto"
+  },
+  {
+    "id": 907,
+    "categoria": "fantasia",
+    "palabra": "troll",
+    "pista": "puente"
+  },
+  {
+    "id": 908,
+    "categoria": "fantasia",
+    "palabra": "gigante",
+    "pista": "enorme"
+  },
+  {
+    "id": 909,
+    "categoria": "fantasia",
+    "palabra": "sirena",
+    "pista": "mar"
+  },
+  {
+    "id": 910,
+    "categoria": "fantasia",
+    "palabra": "centauro",
+    "pista": "caballo"
+  },
+  {
+    "id": 911,
+    "categoria": "fantasia",
+    "palabra": "minotauro",
+    "pista": "laberinto"
+  },
+  {
+    "id": 912,
+    "categoria": "fantasia",
+    "palabra": "pegaso",
+    "pista": "alas"
+  },
+  {
+    "id": 913,
+    "categoria": "fantasia",
+    "palabra": "grifo",
+    "pista": "águila"
+  },
+  {
+    "id": 914,
+    "categoria": "fantasia",
+    "palabra": "fénix",
+    "pista": "renacer"
+  },
+  {
+    "id": 915,
+    "categoria": "fantasia",
+    "palabra": "vampiro",
+    "pista": "colmillos"
+  },
+  {
+    "id": 916,
+    "categoria": "fantasia",
+    "palabra": "hombre lobo",
+    "pista": "luna"
+  },
+  {
+    "id": 917,
+    "categoria": "fantasia",
+    "palabra": "zombi",
+    "pista": "muerto"
+  },
+  {
+    "id": 918,
+    "categoria": "fantasia",
+    "palabra": "fantasma",
+    "pista": "transparente"
+  },
+  {
+    "id": 919,
+    "categoria": "fantasia",
+    "palabra": "momia",
+    "pista": "vendas"
+  },
+  {
+    "id": 920,
+    "categoria": "fantasia",
+    "palabra": "bruja",
+    "pista": "escoba"
+  },
+  {
+    "id": 921,
+    "categoria": "fantasia",
+    "palabra": "mago",
+    "pista": "varita"
+  },
+  {
+    "id": 922,
+    "categoria": "fantasia",
+    "palabra": "hechicero",
+    "pista": "conjuro"
+  },
+  {
+    "id": 923,
+    "categoria": "fantasia",
+    "palabra": "caballero",
+    "pista": "armadura"
+  },
+  {
+    "id": 924,
+    "categoria": "fantasia",
+    "palabra": "rey",
+    "pista": "corona"
+  },
+  {
+    "id": 925,
+    "categoria": "fantasia",
+    "palabra": "reina",
+    "pista": "palacio"
+  },
+  {
+    "id": 926,
+    "categoria": "fantasia",
+    "palabra": "princesa",
+    "pista": "castillo"
+  },
+  {
+    "id": 927,
+    "categoria": "fantasia",
+    "palabra": "príncipe",
+    "pista": "reino"
+  },
+  {
+    "id": 928,
+    "categoria": "fantasia",
+    "palabra": "espada mágica",
+    "pista": "arma"
+  },
+  {
+    "id": 929,
+    "categoria": "fantasia",
+    "palabra": "varita mágica",
+    "pista": "hechizo"
+  },
+  {
+    "id": 930,
+    "categoria": "fantasia",
+    "palabra": "poción",
+    "pista": "frasco"
+  },
+  {
+    "id": 931,
+    "categoria": "fantasia",
+    "palabra": "grimorio",
+    "pista": "libro"
+  },
+  {
+    "id": 932,
+    "categoria": "fantasia",
+    "palabra": "portal",
+    "pista": "entrada"
+  },
+  {
+    "id": 933,
+    "categoria": "fantasia",
+    "palabra": "cristal encantado",
+    "pista": "brillo"
+  },
+  {
+    "id": 934,
+    "categoria": "fantasia",
+    "palabra": "anillo mágico",
+    "pista": "joya"
+  },
+  {
+    "id": 935,
+    "categoria": "fantasia",
+    "palabra": "amuleto",
+    "pista": "protección"
+  },
+  {
+    "id": 936,
+    "categoria": "fantasia",
+    "palabra": "castillo embrujado",
+    "pista": "miedo"
+  },
+  {
+    "id": 937,
+    "categoria": "fantasia",
+    "palabra": "bosque encantado",
+    "pista": "árboles"
+  },
+  {
+    "id": 938,
+    "categoria": "fantasia",
+    "palabra": "mazmorra",
+    "pista": "calabozo"
+  },
+  {
+    "id": 939,
+    "categoria": "fantasia",
+    "palabra": "tesoro",
+    "pista": "oro"
+  },
+  {
+    "id": 940,
+    "categoria": "fantasia",
+    "palabra": "cofre",
+    "pista": "cerrado"
+  },
+  {
+    "id": 941,
+    "categoria": "fantasia",
+    "palabra": "mapa antiguo",
+    "pista": "ruta"
+  },
+  {
+    "id": 942,
+    "categoria": "fantasia",
+    "palabra": "profecía",
+    "pista": "destino"
+  },
+  {
+    "id": 943,
+    "categoria": "fantasia",
+    "palabra": "maleficio",
+    "pista": "maldición"
+  },
+  {
+    "id": 944,
+    "categoria": "fantasia",
+    "palabra": "reliquia",
+    "pista": "antigua"
+  },
+  {
+    "id": 945,
+    "categoria": "fantasia",
+    "palabra": "gólem",
+    "pista": "piedra"
+  },
+  {
+    "id": 946,
+    "categoria": "fantasia",
+    "palabra": "quimera",
+    "pista": "bestia"
+  },
+  {
+    "id": 947,
+    "categoria": "fantasia",
+    "palabra": "hidra",
+    "pista": "cabezas"
+  },
+  {
+    "id": 948,
+    "categoria": "fantasia",
+    "palabra": "cíclope",
+    "pista": "ojo"
+  },
+  {
+    "id": 949,
+    "categoria": "fantasia",
+    "palabra": "kraken",
+    "pista": "mar"
+  },
+  {
+    "id": 950,
+    "categoria": "fantasia",
+    "palabra": "basilisco",
+    "pista": "mirada"
+  },
+  {
+    "id": 951,
+    "categoria": "ciencia",
+    "palabra": "átomo",
+    "pista": "partícula"
+  },
+  {
+    "id": 952,
+    "categoria": "ciencia",
+    "palabra": "molécula",
+    "pista": "unión"
+  },
+  {
+    "id": 953,
+    "categoria": "ciencia",
+    "palabra": "célula",
+    "pista": "vida"
+  },
+  {
+    "id": 954,
+    "categoria": "ciencia",
+    "palabra": "ADN",
+    "pista": "genética"
+  },
+  {
+    "id": 955,
+    "categoria": "ciencia",
+    "palabra": "gravedad",
+    "pista": "caída"
+  },
+  {
+    "id": 956,
+    "categoria": "ciencia",
+    "palabra": "energía",
+    "pista": "fuerza"
+  },
+  {
+    "id": 957,
+    "categoria": "ciencia",
+    "palabra": "electricidad",
+    "pista": "corriente"
+  },
+  {
+    "id": 958,
+    "categoria": "ciencia",
+    "palabra": "magnetismo",
+    "pista": "imán"
+  },
+  {
+    "id": 959,
+    "categoria": "ciencia",
+    "palabra": "luz",
+    "pista": "fotón"
+  },
+  {
+    "id": 960,
+    "categoria": "ciencia",
+    "palabra": "sonido",
+    "pista": "vibración"
+  },
+  {
+    "id": 961,
+    "categoria": "ciencia",
+    "palabra": "calor",
+    "pista": "temperatura"
+  },
+  {
+    "id": 962,
+    "categoria": "ciencia",
+    "palabra": "presión",
+    "pista": "fuerza"
+  },
+  {
+    "id": 963,
+    "categoria": "ciencia",
+    "palabra": "velocidad",
+    "pista": "movimiento"
+  },
+  {
+    "id": 964,
+    "categoria": "ciencia",
+    "palabra": "aceleración",
+    "pista": "cambio"
+  },
+  {
+    "id": 965,
+    "categoria": "ciencia",
+    "palabra": "masa",
+    "pista": "materia"
+  },
+  {
+    "id": 966,
+    "categoria": "ciencia",
+    "palabra": "densidad",
+    "pista": "compacto"
+  },
+  {
+    "id": 967,
+    "categoria": "ciencia",
+    "palabra": "evolución",
+    "pista": "cambio"
+  },
+  {
+    "id": 968,
+    "categoria": "ciencia",
+    "palabra": "fotosíntesis",
+    "pista": "plantas"
+  },
+  {
+    "id": 969,
+    "categoria": "ciencia",
+    "palabra": "ecosistema",
+    "pista": "ambiente"
+  },
+  {
+    "id": 970,
+    "categoria": "ciencia",
+    "palabra": "bacteria",
+    "pista": "microbio"
+  },
+  {
+    "id": 971,
+    "categoria": "ciencia",
+    "palabra": "virus",
+    "pista": "infección"
+  },
+  {
+    "id": 972,
+    "categoria": "ciencia",
+    "palabra": "vacuna",
+    "pista": "protección"
+  },
+  {
+    "id": 973,
+    "categoria": "ciencia",
+    "palabra": "órbita",
+    "pista": "trayectoria"
+  },
+  {
+    "id": 974,
+    "categoria": "ciencia",
+    "palabra": "planeta",
+    "pista": "espacio"
+  },
+  {
+    "id": 975,
+    "categoria": "ciencia",
+    "palabra": "galaxia",
+    "pista": "estrellas"
+  },
+  {
+    "id": 976,
+    "categoria": "ciencia",
+    "palabra": "agujero negro",
+    "pista": "oscuro"
+  },
+  {
+    "id": 977,
+    "categoria": "ciencia",
+    "palabra": "cometa",
+    "pista": "cola"
+  },
+  {
+    "id": 978,
+    "categoria": "ciencia",
+    "palabra": "asteroide",
+    "pista": "roca"
+  },
+  {
+    "id": 979,
+    "categoria": "ciencia",
+    "palabra": "telescopio",
+    "pista": "cielo"
+  },
+  {
+    "id": 980,
+    "categoria": "ciencia",
+    "palabra": "microscopio",
+    "pista": "pequeño"
+  },
+  {
+    "id": 981,
+    "categoria": "ciencia",
+    "palabra": "laboratorio",
+    "pista": "experimento"
+  },
+  {
+    "id": 982,
+    "categoria": "ciencia",
+    "palabra": "hipótesis",
+    "pista": "idea"
+  },
+  {
+    "id": 983,
+    "categoria": "ciencia",
+    "palabra": "teoría",
+    "pista": "explicación"
+  },
+  {
+    "id": 984,
+    "categoria": "ciencia",
+    "palabra": "química",
+    "pista": "sustancias"
+  },
+  {
+    "id": 985,
+    "categoria": "ciencia",
+    "palabra": "física",
+    "pista": "movimiento"
+  },
+  {
+    "id": 986,
+    "categoria": "ciencia",
+    "palabra": "biología",
+    "pista": "vida"
+  },
+  {
+    "id": 987,
+    "categoria": "ciencia",
+    "palabra": "geología",
+    "pista": "tierra"
+  },
+  {
+    "id": 988,
+    "categoria": "ciencia",
+    "palabra": "astronomía",
+    "pista": "cielo"
+  },
+  {
+    "id": 989,
+    "categoria": "ciencia",
+    "palabra": "matemáticas",
+    "pista": "números"
+  },
+  {
+    "id": 990,
+    "categoria": "ciencia",
+    "palabra": "probabilidad",
+    "pista": "azar"
+  },
+  {
+    "id": 991,
+    "categoria": "ciencia",
+    "palabra": "estadística",
+    "pista": "datos"
+  },
+  {
+    "id": 992,
+    "categoria": "ciencia",
+    "palabra": "algoritmo",
+    "pista": "pasos"
+  },
+  {
+    "id": 993,
+    "categoria": "ciencia",
+    "palabra": "inteligencia artificial científica",
+    "pista": "modelo"
+  },
+  {
+    "id": 994,
+    "categoria": "ciencia",
+    "palabra": "robótica",
+    "pista": "máquinas"
+  },
+  {
+    "id": 995,
+    "categoria": "ciencia",
+    "palabra": "nanotecnología",
+    "pista": "pequeño"
+  },
+  {
+    "id": 996,
+    "categoria": "ciencia",
+    "palabra": "genoma",
+    "pista": "genes"
+  },
+  {
+    "id": 997,
+    "categoria": "ciencia",
+    "palabra": "neuronas",
+    "pista": "cerebro"
+  },
+  {
+    "id": 998,
+    "categoria": "ciencia",
+    "palabra": "hormonas",
+    "pista": "señales"
+  },
+  {
+    "id": 999,
+    "categoria": "ciencia",
+    "palabra": "enzima",
+    "pista": "reacción"
+  },
+  {
+    "id": 1000,
+    "categoria": "ciencia",
+    "palabra": "proteína",
+    "pista": "cuerpo"
+  }
+]
