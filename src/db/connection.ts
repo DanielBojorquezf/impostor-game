@@ -1,4 +1,3 @@
-import { Capacitor } from '@capacitor/core';
 import initSqlJs, { Database, SqlValue } from 'sql.js';
 import wasmUrl from 'sql.js/dist/sql-wasm.wasm?url';
 
@@ -11,10 +10,15 @@ export interface DatabaseAdapter {
 }
 
 class SqlJsAdapter implements DatabaseAdapter {
+  private isInTransaction = false;
+
   constructor(private db: Database) {}
 
   async execute(sql: string, params: unknown[] = []): Promise<void> {
     this.db.run(sql, params as SqlValue[]);
+    if (!this.isInTransaction) {
+      persistSqlJsDatabase(this.db);
+    }
   }
 
   async query<T extends DbRow>(sql: string, params: unknown[] = []): Promise<T[]> {
@@ -29,58 +33,56 @@ class SqlJsAdapter implements DatabaseAdapter {
   }
 
   async runTransaction(fn: () => Promise<void>): Promise<void> {
-    await this.execute('BEGIN');
+    this.db.run('BEGIN');
+    this.isInTransaction = true;
     try {
       await fn();
-      await this.execute('COMMIT');
+      this.db.run('COMMIT');
+      persistSqlJsDatabase(this.db);
     } catch (error) {
-      await this.execute('ROLLBACK');
+      this.db.run('ROLLBACK');
       throw error;
-    }
-  }
-}
-
-class CapacitorSqliteAdapter implements DatabaseAdapter {
-  constructor(
-    private sqlite: import('@capacitor-community/sqlite').SQLiteDBConnection,
-  ) {}
-
-  async execute(sql: string, params: unknown[] = []): Promise<void> {
-    await this.sqlite.run(sql, params as never[]);
-  }
-
-  async query<T extends DbRow>(sql: string, params: unknown[] = []): Promise<T[]> {
-    const result = await this.sqlite.query(sql, params as never[]);
-    return (result.values ?? []) as T[];
-  }
-
-  async runTransaction(fn: () => Promise<void>): Promise<void> {
-    await this.sqlite.beginTransaction();
-    try {
-      await fn();
-      await this.sqlite.commitTransaction();
-    } catch (error) {
-      await this.sqlite.rollbackTransaction();
-      throw error;
+    } finally {
+      this.isInTransaction = false;
     }
   }
 }
 
 let cachedDb: DatabaseAdapter | null = null;
+const SQLJS_STORAGE_KEY = 'impostor:sqljs-db';
+
+function bytesToBase64(bytes: Uint8Array): string {
+  let binary = '';
+  const chunkSize = 0x8000;
+
+  for (let index = 0; index < bytes.length; index += chunkSize) {
+    const chunk = bytes.subarray(index, index + chunkSize);
+    binary += String.fromCharCode(...chunk);
+  }
+
+  return btoa(binary);
+}
+
+function base64ToBytes(value: string): Uint8Array {
+  const binary = atob(value);
+  const bytes = new Uint8Array(binary.length);
+
+  for (let index = 0; index < binary.length; index += 1) {
+    bytes[index] = binary.charCodeAt(index);
+  }
+
+  return bytes;
+}
+
+function persistSqlJsDatabase(db: Database): void {
+  localStorage.setItem(SQLJS_STORAGE_KEY, bytesToBase64(db.export()));
+}
 
 async function createWebDatabase(): Promise<DatabaseAdapter> {
   const SQL = await initSqlJs({ locateFile: () => wasmUrl });
-  const db = new SQL.Database();
+  const savedDb = localStorage.getItem(SQLJS_STORAGE_KEY);
+  const db = savedDb ? new SQL.Database(base64ToBytes(savedDb)) : new SQL.Database();
   return new SqlJsAdapter(db);
-}
-
-async function createNativeDatabase(): Promise<DatabaseAdapter> {
-  const { CapacitorSQLite, SQLiteConnection } = await import('@capacitor-community/sqlite');
-  const sqlite = new SQLiteConnection(CapacitorSQLite);
-  const dbName = 'impostor';
-  const connection = await sqlite.createConnection(dbName, false, 'no-encryption', 1, false);
-  await connection.open();
-  return new CapacitorSqliteAdapter(connection);
 }
 
 export async function getDB(): Promise<DatabaseAdapter> {
@@ -88,7 +90,6 @@ export async function getDB(): Promise<DatabaseAdapter> {
     return cachedDb;
   }
 
-  const platform = Capacitor.getPlatform();
-  cachedDb = platform === 'web' ? await createWebDatabase() : await createNativeDatabase();
+  cachedDb = await createWebDatabase();
   return cachedDb;
 }
