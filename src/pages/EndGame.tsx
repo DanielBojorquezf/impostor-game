@@ -37,13 +37,13 @@ export function EndGame() {
   };
 
   return (
-    <IonPage>
+    <IonPage className="game-page">
       <IonHeader>
-        <IonToolbar>
+        <IonToolbar className="game-toolbar">
           <IonTitle>Fin de partida</IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent className="ion-padding ion-text-center">
+      <IonContent className="ion-padding ion-text-center game-bg">
         <p className="end-game-intro">Cuando terminen de discutir…</p>
 
         {revealed && (
@@ -64,7 +64,7 @@ export function EndGame() {
         <IonButton expand="block" onClick={() => setRevealed(true)}>
           Mostrar impostor
         </IonButton>
-        <IonButton expand="block" fill="outline" className="ion-margin-top" onClick={handleClose}>
+        <IonButton expand="block" fill="outline" color="secondary" className="ion-margin-top" onClick={handleClose}>
           Cerrar
         </IonButton>
       </IonContent>

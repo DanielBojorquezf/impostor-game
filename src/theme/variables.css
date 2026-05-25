@@ -1,8 +1,75 @@
 :root {
-  --ion-color-primary: #4d96ff;
-  --ion-color-primary-rgb: 77, 150, 255;
+  --game-bg: #252047;
+  --game-bg-dots: rgba(255, 255, 255, 0.04);
+  --game-surface: #353060;
+  --game-surface-light: #433c78;
+  --game-border: #5c5499;
+  --game-border-strong: #7a72b8;
+
+  --game-accent: #ff6b6b;
+  --game-accent-dark: #d94f4f;
+  --game-yellow: #ffd93d;
+  --game-yellow-dark: #e6b800;
+  --game-teal: #4ecdc4;
+  --game-teal-dark: #38a89e;
+  --game-purple: #a66cff;
+  --game-green: #6bcb77;
+
+  --game-text: #ffffff;
+  --game-text-muted: #b8b0d9;
+  --game-text-dark: #1a1332;
+
+  --game-font-display: 'Fredoka', system-ui, sans-serif;
+  --game-font-body: 'Nunito', system-ui, sans-serif;
+
+  --game-radius: 16px;
+  --game-radius-lg: 20px;
+  --game-border-width: 3px;
+  --game-shadow-offset: 5px;
+
+  --ion-font-family: var(--game-font-body);
+  --ion-background-color: var(--game-bg);
+  --ion-text-color: var(--game-text);
+
+  --ion-color-primary: #ff6b6b;
+  --ion-color-primary-rgb: 255, 107, 107;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
-  --ion-color-primary-shade: #4484e0;
-  --ion-color-primary-tint: #5fa1ff;
+  --ion-color-primary-shade: #e05e5e;
+  --ion-color-primary-tint: #ff7a7a;
+
+  --ion-color-secondary: #4ecdc4;
+  --ion-color-secondary-rgb: 78, 205, 196;
+  --ion-color-secondary-contrast: #1a1332;
+  --ion-color-secondary-contrast-rgb: 26, 19, 50;
+  --ion-color-secondary-shade: #45b4ac;
+  --ion-color-secondary-tint: #60d2ca;
+
+  --ion-color-tertiary: #ffd93d;
+  --ion-color-tertiary-rgb: 255, 217, 61;
+  --ion-color-tertiary-contrast: #1a1332;
+  --ion-color-tertiary-contrast-rgb: 26, 19, 50;
+  --ion-color-tertiary-shade: #e0bf36;
+  --ion-color-tertiary-tint: #ffdd50;
+
+  --ion-color-light: #433c78;
+  --ion-color-light-rgb: 67, 60, 120;
+  --ion-color-light-contrast: #ffffff;
+  --ion-color-medium: #b8b0d9;
+  --ion-color-dark: #1a1332;
+
+  --ion-toolbar-background: #353060;
+  --ion-toolbar-color: #ffffff;
+}
+
+ion-app.game-app {
+  font-family: var(--game-font-body);
+}
+
+ion-app.game-app h1,
+ion-app.game-app h2,
+ion-app.game-app h3,
+ion-app.game-app ion-title {
+  font-family: var(--game-font-display);
+  letter-spacing: 0.02em;
 }

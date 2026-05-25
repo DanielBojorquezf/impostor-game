@@ -10,7 +10,7 @@ import {
   IonToolbar,
 } from '@ionic/react';
 import { addOutline, eyeOffOutline, peopleOutline, settingsOutline } from 'ionicons/icons';
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { useHistory } from 'react-router-dom';
 import { AddPlayerModal } from '../components/AddPlayerModal';
 import { CategoriesModal } from '../components/CategoriesModal';
@@ -35,14 +35,15 @@ export function Home() {
   const history = useHistory();
   const { startGame, hasSavedGame } = useGame();
 
-  const [players, setPlayers] = useState<string[]>([]);
+  const [players, setPlayers] = useState<string[]>(() => loadLastPlayers());
   const [categories, setCategories] = useState<string[]>([]);
   const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set());
-  const [impostorCount, setImpostorCount] = useState(1);
+  const [impostorCount, setImpostorCount] = useState(() => loadLastImpostorCount());
   const [loadingCategories, setLoadingCategories] = useState(true);
   const [starting, setStarting] = useState(false);
   const [toastOpen, setToastOpen] = useState(false);
   const [toastMessage, setToastMessage] = useState('');
+  const categoriesHydrated = useRef(false);
 
   const [playerModalOpen, setPlayerModalOpen] = useState(false);
   const [categoryModalOpen, setCategoryModalOpen] = useState(false);
@@ -53,17 +54,13 @@ export function Home() {
   const canStart = players.length >= 3 && selectedCategories.size > 0 && !starting;
 
   useEffect(() => {
-    setPlayers(loadLastPlayers());
-    setImpostorCount(loadLastImpostorCount());
-  }, []);
-
-  useEffect(() => {
-    if (players.length > 0) {
-      saveLastPlayers(players);
-    }
+    saveLastPlayers(players);
   }, [players]);
 
   useEffect(() => {
+    if (!categoriesHydrated.current) {
+      return;
+    }
     saveLastCategories([...selectedCategories]);
   }, [selectedCategories]);
 
@@ -81,13 +78,15 @@ export function Home() {
           return;
         }
         setCategories(available);
-        const last = loadLastCategories().filter((cat) => available.includes(cat));
-        setSelectedCategories(new Set(last));
+        const saved = loadLastCategories().filter((cat) => available.includes(cat));
+        setSelectedCategories(new Set(saved));
+        categoriesHydrated.current = true;
       } catch (error) {
         console.error(error);
         if (!cancelled) {
           setToastMessage('Algo salió mal al cargar categorías');
           setToastOpen(true);
+          categoriesHydrated.current = true;
         }
       } finally {
         if (!cancelled) {
@@ -173,7 +172,7 @@ export function Home() {
           </button>
         )}
 
-        <section className="home-section">
+        <section className="home-section home-section--players">
           <div className="home-section__header">
             <h2>Jugadores</h2>
             <IonText color="medium">
@@ -192,13 +191,13 @@ export function Home() {
               </IonChip>
             ))}
             <IonChip className="home-chip home-chip--add" onClick={() => setPlayerModalOpen(true)}>
-              <IonIcon icon={addOutline} />
-              Agregar
+              <IonIcon icon={addOutline} className="home-chip__add-icon" />
+              <span>Agregar</span>
             </IonChip>
           </div>
         </section>
 
-        <section className="home-section">
+        <section className="home-section home-section--categories">
           <div className="home-section__header">
             <h2>Categorías</h2>
             <IonText color="medium">
@@ -220,13 +219,13 @@ export function Home() {
               className="home-chip home-chip--add"
               onClick={() => setCategoryModalOpen(true)}
             >
-              <IonIcon icon={addOutline} />
-              Seleccionar
+              <IonIcon icon={addOutline} className="home-chip__add-icon" />
+              <span>Seleccionar</span>
             </IonChip>
           </div>
         </section>
 
-        <section className="home-section">
+        <section className="home-section home-section--impostors">
           <button type="button" className="home-option-card" onClick={() => setImpostorModalOpen(true)}>
             <div>
               <p className="home-option-card__label">Impostores</p>
@@ -242,7 +241,7 @@ export function Home() {
           <IonButton
             expand="block"
             size="large"
-            className="home-start-btn"
+            className="game-btn--start"
             disabled={!canStart}
             onClick={handleStart}
           >

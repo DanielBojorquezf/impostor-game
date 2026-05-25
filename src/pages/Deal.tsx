@@ -54,13 +54,16 @@ export function Deal() {
   };
 
   return (
-    <IonPage>
+    <IonPage className="game-page">
       <IonHeader>
-        <IonToolbar>
+        <IonToolbar className="game-toolbar">
           <IonTitle>Reparto</IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent className="ion-padding deal-content">
+      <IonContent className="ion-padding deal-content game-bg">
+        <p className="deal-progress">
+          Jugador {state.currentIndex + 1} de {state.players.length}
+        </p>
         <div key={cardKey} className="deal-card-wrapper fade-in">
           <PlayerCard
             playerName={playerName}

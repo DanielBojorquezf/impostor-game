@@ -61,7 +61,8 @@ export function saveLastPlayers(players: string[]): void {
 }
 
 export function loadLastPlayers(): string[] {
-  return readJson<string[]>(LAST_PLAYERS_KEY) ?? [];
+  const players = readJson<string[]>(LAST_PLAYERS_KEY);
+  return Array.isArray(players) ? players : [];
 }
 
 export function saveLastCategories(categories: string[]): void {
@@ -69,7 +70,8 @@ export function saveLastCategories(categories: string[]): void {
 }
 
 export function loadLastCategories(): string[] {
-  return readJson<string[]>(LAST_CATEGORIES_KEY) ?? [];
+  const categories = readJson<string[]>(LAST_CATEGORIES_KEY);
+  return Array.isArray(categories) ? categories : [];
 }
 
 export function saveLastImpostorCount(count: number): void {

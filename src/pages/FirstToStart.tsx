@@ -25,15 +25,17 @@ export function FirstToStart() {
   }
 
   return (
-    <IonPage>
+    <IonPage className="game-page">
       <IonHeader>
-        <IonToolbar>
+        <IonToolbar className="game-toolbar">
           <IonTitle>Primero en empezar</IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent className="ion-padding ion-text-center">
+      <IonContent className="ion-padding ion-text-center game-bg">
         <p className="first-start-label">El primero en empezar es:</p>
-        <h1 className="first-start-name">{state.firstToStart}</h1>
+        <div className="first-start-card fade-in">
+          <h1 className="first-start-name">{state.firstToStart}</h1>
+        </div>
         <IonButton expand="block" onClick={() => history.push('/game/end')}>
           Continuar
         </IonButton>

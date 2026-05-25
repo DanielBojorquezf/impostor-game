@@ -38,7 +38,7 @@ export default function App() {
   }, []);
 
   return (
-    <IonApp>
+    <IonApp className="game-app">
       {dbError ? (
         <IonContent className="ion-padding ion-text-center">
           <p>No se pudo cargar la base de datos. Recarga la página.</p>
@@ -62,6 +62,7 @@ export default function App() {
         isOpen={!dbReady && !dbError}
         message="Cargando…"
         spinner="crescent"
+        cssClass="game-loading"
       />
     </IonApp>
   );
